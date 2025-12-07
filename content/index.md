@@ -1,7 +1,18 @@
 ---
-title: Welcome to Quartz 4
+title: ¡Bienvenido/a a mis apuntes de filosofía!
 ---
+	
+Aquí encontrarás apuntes del *Grado en filosofía* de la *Universidad de Granada*. Dichos apuntes corresponden a las asignaturas que voy cursando, comenzando en el año académico 2025/2026.
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+En el menú de la izquierda podrás encontrar las asignaturas, a su vez subdivididas por temas.
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+Aún falta mucho por pulir:
+- Un diseño personalizado.
+- Enlaces entre páginas para alimentar el grafo de contenido.
+- Revisión de los apuntes.
+- Contenido adicional: enlaces, artículos, multimedia...
+- Adaptar el proyecto y la página para un uso colectivo (revisión conjunta, solicitudes de actualización, sugerencias...)
+
+¡Espero que te sea de utilidad!
+Jose (Fran).
+
