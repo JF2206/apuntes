@@ -214,3 +214,4 @@ Dialéctico es aquel que alcanza la razón de la esencia. Es ese que llega al sa
 
 La segunda pregunta acerca del texto será muy parecida a las 7 planteadas en la guía de comentario.
 
+Platón se llamaba Aristocles
