@@ -7,12 +7,13 @@ Aquí encontrarás apuntes del *Grado en filosofía* de la *Universidad de Grana
 En el menú de la izquierda podrás encontrar las asignaturas, a su vez subdivididas por temas.
 
 Aún falta mucho por pulir:
-- Un diseño personalizado.
-- Enlaces entre páginas para alimentar el grafo de contenido.
-- Revisión de los apuntes.
-- Contenido adicional: enlaces, artículos, multimedia...
-- Adaptar el proyecto y la página para un uso colectivo (revisión conjunta, solicitudes de actualización, sugerencias...)
+- [ ] Un diseño personalizado.
+- [ ] Enlaces entre páginas para alimentar el grafo de contenido.
+- [ ] Traducción al español de los elementos generados automáticamente
+- [ ] Accesibilidad (colores/contraste)
+- [ ] Revisión de los apuntes.
+- [ ] Contenido adicional: enlaces, artículos, multimedia...
+- [ ] Adaptar el proyecto y la página para un uso colectivo (revisión conjunta, solicitudes de actualización, sugerencias...)
 
 ¡Espero que te sea de utilidad!
-Jose (Fran).
 
