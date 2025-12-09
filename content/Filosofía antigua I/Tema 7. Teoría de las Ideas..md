@@ -1,19 +1,19 @@
 
 9/12/25
 
-## El Demiurgo
+## El [[Demiurgo]] en el [[Timeo]]
 
 El espacio aparece ahora como una realidad intermedia entre los dos "mundos", esto es, entre el ser y el devenir.
 
 	Novedad, desde un punto de vista explícito: el Demiurgo.
 	Novedad, en general: el "espacio"
 
-- El Platón de la vejez se caracteriza por estas mediaciones. Hasta este punto se había distinguido por las diferencias. Lo que busca en las siguientes obras es la mediación entre los mundos.
+- El [[Platón]] de la vejez se caracteriza por estas mediaciones. Hasta este punto se había distinguido por las diferencias. Lo que busca en las siguientes obras es la mediación entre los mundos.
 
-Espacio, concebido como "receptáculo" del devenir: el lugar donde nacen y perecen las cosas.
+Espacio, concebido como "receptáculo" del [[devenir]]: el lugar donde nacen y perecen las cosas.
 Se puede pensar a modo de analogía que el espacio platónico es como la materia aristotélica, aunque con matices.
 
-Es intermedio, en tanto que constituye una mediación entre el ser y el devenir. El ser se proyecta en el espacio y éste se ordena según las Ideas.
+Es intermedio, en tanto que constituye una mediación entre el ser y el devenir. El ser se proyecta en el espacio y éste se ordena según las [[Ideas]].
 
 El espacio se aprehende, se capta, por medio de un razonamiento místico, en tanto que se percibe por los sentidos. Platón lo concibe como un movimiento caótico, que tiene que ser ordenado.
 - Aparecen las cosas generadas, que participan del ser y del no ser, en tanto que están cambiando, así como el Demiurgo concebido como causa del devenir.
@@ -43,7 +43,7 @@ Platón: "El universo nació por la combinación de *necesidad e inteligencia*":
 > Hasta ahora, los presocráticos -salvo Anaxágoras- sólo se han preocupado por *cómo* se hizo el mundo. Platón se plantea *por qué, para qué* lo hizo. 
 
 - La creación platónica tiene un componente axiológico
-	- Nietzsche: Platón malinterpretó la naturaleza, por que la confundió con la … (completar).
+	- [[Nietzsche]]: "Platón malentendió la naturaleza dentro de la moral".
 
 Quiere recuperar el sentido de lo divino, pero depurándolo de lo antropomórfico: *los dioses son buenos*, en contraste con la concepción turbulenta, con accesos de envidia, de los dioses griegos, tradicionalmente arraigada en la cultura griega.
 
@@ -57,3 +57,40 @@ La acción creadora consistió en conducir el caos del desorden al orden: intenc
 	- Dotado de pensamiento, inteligencia.
 	- Dotado de voluntad.
 
+> En tanto que el Demiurgo es *el mejor*, *óptimo*, éste sólo puede obedecer al [[Bien]].
+
+En el [[Timeo]], Platón hará una matización a su concepción de la causalidad:
+1.  La causalidad teleológica, que "obra lo bello y lo bueno por medio de la inteligencia": *La finalidad en la naturaleza*.
+2. La causalidad mecánica, que atiende a causas desprovistas de razón, que produce lo que resulta *al azar y sin orden*, es decir, sin causa final. Corresponden a lo que llamaba en el [[Fedón]] *condiciones necesarias*, ahora consideradas propiamente como causas, pero desprovistas de razón.
+
+Según los presocráticos, la que tiene prioridad es la segunda, pero para Platón es la primera la más importante. Esto produce una inversión en la cosmogonía griega.
+- El alma como principio absoluto del movimiento es aquello que permite tal inversión. El alma es lo que se mueve a sí mismo, es razón autónoma de movimiento.
+
+## Lectura de Leyes
+### Parte 1: explicación mecanicista de la naturaleza, desde el punto de vista teleológico platónico
+En Leyes, [[Platón]] plantea la concepción mecanicista de la naturaleza, presente en la filosofía presocrática. Algunos elementos son:
+- naturaleza, azar / arte: dos alternativas.
+	- naturaleza, azar: no hay intención.
+	- arte viene a significar lo contrario del azar: en el arte hay intención racional, hay una causa, un *para qué*.
+- En la concepción presocrática de la naturaleza hay un desprecio del arte, surge como una cosa *derivada*.
+- Según Platón, el materialismo de los presocráticos plantea principios inanimados.
+- "... todo aquello que por el *azar* viene a fundirse en mezcla *necesariamente*":
+	- Leucipo: "nada ocurre al azar".
+	- Platón, observando el atomismo de Leucipo: "todo ocurre al *azar*".
+- No se contradicen, puesto que *azar* viene a significar dos cosas diferentes:
+	1. En Leucipo, azar significa "sin causa". En concreto, "sin causa mecánica". Leucipo afirma que "nada ocurre sin una causa mecánica".
+	2. En Platón, azar significa *sin causa final*. Platón, al ver la concepción mecanicista, concluye que en tal modelo todo ocurre *sin causa final*, luego ocurre *al azar*.
+
+> Según Platón, el mundo de los presocráticos se ha producido conforme al azar.
+
+La alternativa platónica a este "reino del azar" se basa en la tríada teleológica: dios, inteligencia y arte.
+- Arte: intención o voluntad del Bien. "El reino del *para qué*".
+### Parte 2: consecuencias del mecanicismo: ateísmo, convencionalismo e inmoralismo.
+
+- "Los dioses existen por arte": manera sutil de afirmar que los presocráticos son ateos. Los dioses -son por nomos, por convención, no por physis.
+
+- No hay justicia en la naturaleza: Los presocráticos excluyeron lo Justo de la naturaleza o, en todo caso, reina la justicia del más fuerte. "Validez que es debida al arte y a las convenciones legales": [[convencionalismo]].
+
+- "Lo más justo es cualquier cosa que uno imponga por medio de la violencia": inmoralismo.
+
+Estas críticas apuntan a los Sofistas como seguidores de la doctrina mecanicista presocrática, en tanto que exploran sus consecuencias morales y teológicas.
