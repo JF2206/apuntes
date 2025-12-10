@@ -1,3 +1,8 @@
+---
+title: Xavier Zubiri
+aliases:
+  - Zubiri
+---
 5/11/25
 
 Para Zubiri, en cualquier tema filosófico está involucrada toda la filosofía.

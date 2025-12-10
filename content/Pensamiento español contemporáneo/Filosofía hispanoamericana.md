@@ -30,7 +30,7 @@ La filosofía no es periodismo: lo que pasa en las últimas décadas constituye 
 Vamos a ver un poco de la historia de la génesis de la filosofía latinoamericana, con qué características, y en concreto una filosofía de la liberación y con qué características. Leeremos algunos textos de los autores principales, de reciente producción.
 
 - El texto de Dante Ramaglia da una panorámica suficiente para los objetivos de la asignatura. Consiste en una narración de las cuestiones fundamentales discutidas en la filosofía latinoamericana.
-- Ellacuría es el autor del segundo texto. A partir de la metafísica de Zubiri -fue discípulo suyo- confecciona una filosofía de la historia de la alienación, específicamente en el contexto latinoamericano. Es uno de los primeros promotores de la filosofía de la liberación, en una determinada línea. Éste artículo está orientado en la función liberadora de la filosofía. Ellacuría es teólogo y filósofo.
+- Ellacuría es el autor del segundo texto. A partir de la metafísica de [[Zubiri]] -fue discípulo suyo- confecciona una filosofía de la historia de la alienación, específicamente en el contexto latinoamericano. Es uno de los primeros promotores de la filosofía de la liberación, en una determinada línea. Éste artículo está orientado en la función liberadora de la filosofía. Ellacuría es teólogo y filósofo.
 	- Responder a la pregunta: ¿Qué quiere decir que la filosofía tenga algo de liberador? A propósito de este artículo y lo que quiera incorporarse de otros textos de Ellacuría, otros autores, etc. Extensión recomendada: un par de páginas (orientativa).
 		- Se valorará que se trate de una respuesta personalizada.
 		- Fecha de entrega: 17 de diciembre.
