@@ -68,4 +68,9 @@ Esto, que se ha vuelto a plantear en las últimas décadas desde la posmodernida
 			- Su posición no coincide con Bondy, en tanto que no está de acuerdo con que todo lo que se ha hecho en filosofía en Latinoamérica hasta el momento, puesto que ha sido en una situación de colonización, sea una filosofía inauténtica.
 			- Su propuesta avanza en lo que es una filosofía latinoamericana, en tanto que piensa el momento presente en tal contexto, y por primera vez se empieza a hablar de una filosofía mexicana, lo cual en aquel momento es muy chocante, en tanto que la concepción estándar es una concepción de la filosofía como un saber de carácter general, y tiene que ser la misma en cualquier lugar, por lo menos en los problemas que abordan, cómo abordarlo, en nivel de racionalidad, etc.
 				- Aquello va evolucionando en una filosofía latinoamericana.
-	
+
+10/12/25
+
+> Recapitulando:
+A raíz de las independencias políticas de los países latinoamericanos respecto de España, Portugal y demás, se empieza a plantear y discutir la posibilidad de que haya una independencia intelectual, mental... que Latinoamérica no quede meramente como una prolongación, un trasplante de las ideas europeas, sino creando su propia filosofía: si no hay una independencia intelectual, no hay una independencia real. 
+
