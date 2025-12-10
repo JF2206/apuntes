@@ -1,3 +1,8 @@
+---
+title: Tema 7. Teoría de las Ideas
+aliases:
+  - Teoría de las Ideas
+---
 
 9/12/25
 

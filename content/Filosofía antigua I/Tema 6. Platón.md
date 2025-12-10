@@ -1,4 +1,12 @@
-## Introducción biográfica y conceptual
+---
+title: Tema 6. Platón
+aliases:
+  - Platón
+  - Platonismo
+  - platonismo
+---
+
+# Introducción biográfica y conceptual
 Para la lectura del diálogo correspondiente, hay que remitir al capítulo de Guthrie en el que habla de dicho diálogo.
 
 Platón es único, en el sentido de que nunca habla en su propio nombre, siempre utiliza personajes para expresarse a través de ellos, salvo las cartas, consideradas tradicionalmente "espurias" (no escritas por Platón), exceptuando la carta séptima (en disputa). Si no la escribió Platón, debió escribirla alguien que conocía muy bien la vida, pensamiento y motivaciones de Platón. En esta carta se nos plantea a un Platón con una gran vocación política: pensaba dedicarse a la política. 

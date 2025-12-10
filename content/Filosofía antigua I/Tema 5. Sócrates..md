@@ -1,3 +1,9 @@
+---
+title: Tema 5. Sócrates
+aliases:
+  - Sócrates
+---
+
 Leer el capítulo dedicado a Sócrates en el libro del profesor.
 
 En la séptima diapositiva hay una comparación antitética entre el pensamiento y práctica socrática y la sofística.

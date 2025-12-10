@@ -1,3 +1,12 @@
+---
+title: Tema 4. Los sofistas.
+aliases:
+  - Los sofistas
+  - Sofistas
+  - los sofistas
+  - sofistas
+---
+
 28/10/25:
 
 Faltan los apuntes de dos días de clase sobre los sofistas (comienzo del nuevo tema, con el nuevo profesor)

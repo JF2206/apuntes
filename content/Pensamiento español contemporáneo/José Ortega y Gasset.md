@@ -1,4 +1,11 @@
-### Superación del idealismo husserliano
+---
+title: José Ortega y Gasset
+aliases:
+  - Ortega
+  - Ortega y Gasset
+  - raciovitalismo
+---
+# Superación del idealismo husserliano
 
 Realismo: La percepción es una mera copia que se queda en la mente del sujeto. Éste refleja el mundo.
 
@@ -83,7 +90,7 @@ Para Ortega, la fenomenología deja fuera el valor ejecutivo del acto.
 
 Realismo e idealismo suponen una relación, no explicitada, no problematizada, entre el mundo (los objetos) y el sujeto.
 
-### De la fenomenología al raciovitalismo.
+# De la fenomenología al raciovitalismo.
 
 El raciovitalismo será la concepción de la realidad que mantendrá Ortega. Él afirma que "la fenomenología deja fuera el valo ejecutivo del acto", es decir, aquello que lo convierte en un acto vivo.
 
@@ -210,7 +217,7 @@ Para Ortega, va a haber una reflexión, pero será de tipo de reflexividad vital
 
 Lo que hay es "mi vida", yo en interacción, en coactuación con el mundo.
 
-#### El raciovitalismo
+# El raciovitalismo
 
 ¿Qué entiende Ortega por reflexión?
 
@@ -288,8 +295,6 @@ A partir de la reflexividad vital podemos abstraer todo lo que queramos, ponerno
 La ejecutividad es más fundamental que la reflexividad vital, porque en primer lugar estoy haciendo cosas en mi vida, pero la racionalidad vital es una forma de hacer cosas, depende de ese fondo ejecutivo. Mi vida, de forma radical, es un quehacer constante.
 
 Ortega justifica gnoseológicamente su pensamiento a partir del criterio fenomenológico de la evidencia. La filosofía es una tarea analítica que se desarrolla en la racionalidad consciente, pero a partir de ahí se puede abstraer más o menos, y él considera que "lo más superficial es lo más evidente". En este caso, "mi vida" es lo más superficial y evidente.
-
-#### El racio-vitalismo
 
 Hoy planteamos el perspectivismo como un elemento muy relacionado con la filosofía de Ortega.
 

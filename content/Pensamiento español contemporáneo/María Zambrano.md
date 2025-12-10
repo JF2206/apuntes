@@ -1,8 +1,12 @@
+---
+title: María Zambrano
+aliases:
+  - Zambrano
+---
+
 21/11/2025
-
-El comentario será hasta el 4 de diciembre (incluído)
-
-## 1. Contextualización: Vida y obras
+# 1. Contextualización
+## Vida y obras
 
 María Zambrano Alarcón (1904-1991)
 
@@ -46,7 +50,7 @@ En el exilio ofrece además conferencias, las cuales sentarán las bases de much
 
 Conoce a muchos intelectuales (el exilio le brinda esta posibilidad).
 
-### Contexto histórico.
+## Contexto histórico.
     
 - Restauración borbónica:
     - Inestabilidad política, palpable en la realidad social del país ("hay que transformar el país"), además de la intelectual.
@@ -62,7 +66,7 @@ Conoce a muchos intelectuales (el exilio le brinda esta posibilidad).
 
 - Filosóficamente, queremos decir -María Zambrano dirá- que el modelo de la realidad que imperaba hasta ese entonces (principalmente racionalismo y empirismo) lleva a una "pérdida de la tierra", de lo carnal, del sentir originario, de la interioridad de la persona. Propone una razón más ancha, que introduzca estos elementos que son fundamentales en la racionalidad humana. Eso implicará ir más allá de la razón, llevándole a una posición mística, una razón integral en la que lo carnal esté presente, superando la modernidad a través de una "razón diferente" -la razón poética- que integrará "lo originario", "lo abismal". Ni explicación ni comprensión, sino "revelación".
 
-## Influencias filosóficas principales:
+### Influencias filosóficas principales:
 
 - Orgega, Massignon, Ibn Arabi, Max Scheler (ordo amoris, orden del amor, razones del corazón, a las cuales no estamos acostumbrados desde una perspectiva o tradición filosófica, mantiene una concepción intuicionista de los valores, dándole gran importancia al contacto afectivo, sentimental, como acceso primario a la realidad. No es nooética, intelectiva, sino afectiva, inmediata, intuitiva).
 
@@ -88,7 +92,7 @@ Para Zubiri, al hablar de verdad, va a hablar de un sentir ligado a lo nooético
 
 26/11/25
 
-### La razón poética (I)
+# La razón poética
 
 Seis argumentos a cerca de por qué la filosofía y la poesía pueden integrarse.
 
@@ -123,7 +127,7 @@ Seis argumentos a cerca de por qué la filosofía y la poesía pueden integrarse
 		- Uniendo Teoría de las Ideas con el Mito de la caverna en María Zambrano:
 			- "Si Platón quiere salvar las apariencias, no puede renunciar a salvar el amor que nace de la carne, pero tiene que separarlo de ella".
 				- Salvar las apariencias: las cosas del mundo sensible no me proporcionan conocimiento verdadero, para "salvarlas" necesito conocer las Ideas que se encuentran en el mundo inteligible. 
-				- El amor derivado de la carne es el relacionado con el deseo, afecto, pasión, pertenece al mundo sensible: "el logos no podía [en Platón] descender hasta la carne", puesto que en la carne residen las apariencias, fuera de todo conocimiento verdadero, luego el logos divino -simbólicamente- no puede "encarnarse" en Jesús, porque no puede bajar, descender del mundo inteligible al mundo sensible. 
+				- El amor derivado de la carne es el relacionado con el deseo, afecto, pasión, pertenece al mundo sensible: "el logos no podía en [[Platón]] descender hasta la carne", puesto que en la carne residen las apariencias, fuera de todo conocimiento verdadero, luego el logos divino -simbólicamente- no puede "encarnarse" en Jesús, porque no puede bajar, descender del mundo inteligible al mundo sensible. 
 					- En resumen, el logos platónico es abstracto, universal, no encarnado, pertenece al mundo inteligible.
 				- En Zambrano, hay una correspondencia conceptual entre tres paradigmas: el cristianismo, Platón y la razón poética (tabla para poner en un examen).
 
@@ -177,9 +181,3 @@ La cuestión no queda aquí: "Sólo el tiempo, la historia, cuando al fin haga q
 	- Cuando la persona integra filosofía (conceptos, unidad, logos) con poesía (experiencia vivida, emociones) y con revelación simbólica (comprensión del misterio de la realidad, en sentido amplio -no religioso-, a través de símbolos, desde un punto de vista activo, creador), entonces filosofía y poesía se encuentran. No en abstracto, sino "en la tierra".
 	- Los símbolos para Zambrano no son sólo instancias lingüísticas, como  los oxímoron, que no tienen sentido desde un punto de vista lógico, sino como revelación de un sentido que hasta ahora ha estado oculto. Precisamente por profundizar en el *fondo abisal* del alma.
 	- En Zambrano, la verdad es relativa a cada razón poética. Hay elementos comunes, transversales a la experiencia humana -por ejemplo, el considerar hacer un trabajo interior respecto de la conceptualización de la muerte y la muerte vivida-.
-
-- Exposición de Nuria Sánchez
-	- Fragmento de FyP: Unión en Grecia de FyP y como se escinden, marcando el desarrollo del pensamiento occidental posterior.
-- Exposición de Juan Luis: psicología y existencialidad del poeta.
-- Exposición de Vova y Paula.
-- Exposición de Leo: sobre "La tumba de Antígona".
