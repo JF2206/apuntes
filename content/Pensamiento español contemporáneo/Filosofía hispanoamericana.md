@@ -63,7 +63,7 @@ Esto, que se ha vuelto a plantear en las últimas décadas desde la posmodernida
 			- José Gaos continuó su labor filosófica en el exilio, habiendo aprendido de Ortega su concepción de la filosofía. En concreto, la filosofía consiste en "pensar el momento presente", y siempre ha sido así. La filosofía piensa los problemas fundamentales de cada momento, de cada situación, según el modo filosófico.
 				- En tanto que hay que pensar el momento presente, el momento presente en México es distinto al de España, en tiempo y lugar, las circunstancias son diferentes. Así, la tarea filosófica, *grosso modo*, es pensar México en los años 40.
 				- Fundan el Colegio de España en México, escuela de filosofía importante y aún existente.
-				- "Los problemas que tenemos que abordar  y cómo abordarlos tiene que estar ajustado a las circunstancias de lo que es México hoy": en ese contexto se forma Leopoldo Zea.
+				- "Los problemas que tenemos que abordar  y cómo abordarlos tiene que estar ajustado a las circunstancias de lo que es México hoy": en ese contexto se forma Leopoldo Zea. Ortega: "si no salvo las circunstancias, no me salvo yo".
 		- Leopoldo Zea: "tiene que haber una filosofía ajustada a las circunstancias, y por tanto propia de esa situación concreta", lo cual viene a converger con toda una tradición anterior que comienza, como mínimo, con Alberdi.
 			- Su posición no coincide con Bondy, en tanto que no está de acuerdo con que todo lo que se ha hecho en filosofía en Latinoamérica hasta el momento, puesto que ha sido en una situación de colonización, sea una filosofía inauténtica.
 			- Su propuesta avanza en lo que es una filosofía latinoamericana, en tanto que piensa el momento presente en tal contexto, y por primera vez se empieza a hablar de una filosofía mexicana, lo cual en aquel momento es muy chocante, en tanto que la concepción estándar es una concepción de la filosofía como un saber de carácter general, y tiene que ser la misma en cualquier lugar, por lo menos en los problemas que abordan, cómo abordarlo, en nivel de racionalidad, etc.
@@ -73,4 +73,20 @@ Esto, que se ha vuelto a plantear en las últimas décadas desde la posmodernida
 
 > Recapitulando:
 A raíz de las independencias políticas de los países latinoamericanos respecto de España, Portugal y demás, se empieza a plantear y discutir la posibilidad de que haya una independencia intelectual, mental... que Latinoamérica no quede meramente como una prolongación, un trasplante de las ideas europeas, sino creando su propia filosofía: si no hay una independencia intelectual, no hay una independencia real. 
+
+El objetivo más fundamental, la condición presente es aquella que requiere una liberación. La liberación de colonizaciones, de opresiones, de dogmatismos, etc.
+
+> La liberación es la necesidad más urgente que se percibe en las sociedades latinoamericanas de la época, y por eso se convierte en el objetivo prioritario de la filosofía latinoamericana (ocurriendo de igual forma en el ámbito político y religioso)
+
+Así, la filosofía latinoamericana se formula en términos de "Filosofía de la liberación", y no es una filosofía del Ser o del lenguaje, tal y como se vienen haciendo en Occidente.
+
+En 1969, Zea escribe un texto de respuesta a Bondy, en el que plantea una crítica a la propuesta de Bondy (Bondy: primero hay que lograr salir del subdesarrollo y después plantear una filosofía genuina) Hay que desactivar el ideal de progreso, el estado óptimo concebido desde una perspectiva Europea, en tanto que no corresponde a la realidad y a la cultura que se ha venido construyendo en Latinoamérica. Según Zea, Bondy está en el mismo supuesto, en tanto que plantea ciertas cotas de progreso, libertad, como necesarias para la realización de una filosofía auténtica, todo con categorías y en la línea europea.
+
+>Zea: "La autenticidad no ha de ser consecuencia de esa posible revolución social y económica, sino la base de su posibilidad".
+
+Una filosofía crítica con la condición de subdesarrollo y colonialismo también puede ser auténtica, aunque se haga desde un contexto de subdesarrollo y dominación.
+
+> Si tuviera razón Salazar Bondy, no podría haber hecho con legitimidad su propia filosofía.
+
+
 
