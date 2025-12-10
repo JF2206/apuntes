@@ -1,7 +1,6 @@
 ---
 title: ¡Bienvenido/a a mis apuntes de filosofía!
 ---
-Prueba prueba
 Aquí encontrarás apuntes del *Grado en filosofía* de la *Universidad de Granada*. Dichos apuntes corresponden a las asignaturas que voy cursando, comenzando en el año académico 2025/2026.
 
 En el menú de la izquierda podrás encontrar las asignaturas, a su vez subdivididas por temas.
