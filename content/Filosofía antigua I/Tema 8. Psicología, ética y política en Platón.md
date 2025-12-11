@@ -54,3 +54,8 @@ En "La sociedad abierta y sus enemigos", Popper plantea que [[Tema 6. Platón|Pl
 
 > [[Tema 6. Platón|Platón]]: "El Estado mejor gobernado es aquel en el que los gobernantes no quieren serlo".
 
+>  [[Tema 6. Platón|Platón]] plantea la utopía como una propuesta realizable, y se establece como norma para guiar nuestras acciones políticas. En tanto que no existe en ningún lugar, constituye un estado *parà doxan*, es decir, contra el sentido común.
+
+El pesimismo antropológico lleva a [[Tema 6. Platón|Platón]] a abandonar el sistema político de la república, en su *segunda navegación*. En este punto de su vida, concibe el poder como corruptor, luego debe ser limitado de alguna forma para el correcto funcionamiento de la polis.
+
+
