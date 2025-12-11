@@ -2,6 +2,7 @@
 title: Tema 7. Teoría de las Ideas
 aliases:
   - Teoría de las Ideas
+  - Demiurgo
 ---
 
 9/12/25
@@ -13,7 +14,7 @@ El espacio aparece ahora como una realidad intermedia entre los dos "mundos", es
 	Novedad, desde un punto de vista explícito: el Demiurgo.
 	Novedad, en general: el "espacio"
 
-- El [[Platón]] de la vejez se caracteriza por estas mediaciones. Hasta este punto se había distinguido por las diferencias. Lo que busca en las siguientes obras es la mediación entre los mundos.
+- El [[Tema 6. Platón|Platón]] de la vejez se caracteriza por estas mediaciones. Hasta este punto se había distinguido por las diferencias. Lo que busca en las siguientes obras es la mediación entre los mundos.
 
 Espacio, concebido como "receptáculo" del [[devenir]]: el lugar donde nacen y perecen las cosas.
 Se puede pensar a modo de analogía que el espacio platónico es como la materia aristotélica, aunque con matices.
@@ -99,3 +100,10 @@ La alternativa platónica a este "reino del azar" se basa en la tríada teleoló
 - "Lo más justo es cualquier cosa que uno imponga por medio de la violencia": inmoralismo.
 
 Estas críticas apuntan a los Sofistas como seguidores de la doctrina mecanicista presocrática, en tanto que exploran sus consecuencias morales y teológicas.
+
+11/25/25
+
+La segunda navegación de [[Tema 6. Platón|Platón]] supone el "nacimiento de la metafísica".
+ 
+> La metafísica es "una interpretación alternativa de la naturaleza". En este caso, una interpretación teleológica, es decir, a la vista de causas finales.
+

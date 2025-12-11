@@ -4,6 +4,7 @@ aliases:
   - Platón
   - Platonismo
   - platonismo
+  - pensamiento platónico
 ---
 
 # Introducción biográfica y conceptual

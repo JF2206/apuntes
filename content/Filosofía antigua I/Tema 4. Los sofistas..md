@@ -5,6 +5,10 @@ aliases:
   - Sofistas
   - los sofistas
   - sofistas
+  - Calicles
+  - Protágoras
+  - Antifonte
+  - Hipias
 ---
 
 28/10/25:
