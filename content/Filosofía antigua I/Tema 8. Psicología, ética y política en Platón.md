@@ -26,3 +26,9 @@ Hay conflicto moral, en tanto que en la acción concurren  tendencias contrarias
 
 > En resumen, la tripartición del alma viene expuesta a partir del conflicto de motivaciones como algo interior al alma.
 
+Principio del isomorfismo estructural: existe una estructura análoga, igualmente interrelacionada, entre el individuo y el estado. Según [[Tema 6. Platón|Platón]], "convenir que en cada uno de nosotros habitan los mismos tipos y caracteres que en el Estado".
+- La existencia de las tres necesidades básicas asegura la producción de bienes para asegurar la subsistencia, defensa y gobierno.
+- Los tres tipos de deseos dan lugar a las tres partes del alma, así como a las tres clases del estado ideal, formado por aquellos tipos humanos en los que prevalece cada uno de ellos: los gobernantes (deseo de conocer), los militares (honor) y los productores (el dinero, la concupiscencia).
+
+> En la política de [[Tema 6. Platón|Platón]] hay una especialización funcional, en contra de la versatilidad democrática del ciudadano ateniense.
+
