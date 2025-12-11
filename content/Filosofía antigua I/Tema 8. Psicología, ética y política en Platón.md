@@ -32,3 +32,13 @@ Principio del isomorfismo estructural: existe una estructura análoga, igualment
 
 > En la política de [[Tema 6. Platón|Platón]] hay una especialización funcional, en contra de la versatilidad democrática del ciudadano ateniense. Esto se opone a la posición de [[Tema 4. Los sofistas.|Protágoras]], el cual representa el ideario político de Pericles. Cuando plantea la lectura democrática del mito de Prometeo, propone una antropología al servicio de la democracia ateniense: todos los ciudadanos, independientemente de su oficio, deben participar de la gestión de la polis.
 
+Así, llegamos a la teoría de la justicia. Aquí, [[Tema 6. Platón|Platón]] se ampara en una vieja fórmula:
+
+> "La justicia da a cada uno lo suyo"
+
+Tradicionalmente, la justicia consiste en un comportamiento de unos hacia otros. Sin embargo, [[Tema 6. Platón|Platón]] ve esto como una consecuencia, no como lo fundamental. Cuando en el alma se da la sabiduría, el valor y la moderación, vendrá la justicia en el sentido "corriente", en tanto relación con los otros.
+
+> El planteamiento platónico de la justicia es "interiorista"
+
+La justicia se alcanza escuchando a la razón, en tanto que ésta es conocedora del Bien. Por contraste, [[Tema 4. Los sofistas.|Calicles]] tenía una posición hedonista. [[Tema 6. Platón|Platón]] también se opone a [[Tema 4. Los sofistas.|Pericles]], en tanto que cree que el gobierno lo deben ejercer no todos, sino *los mejores*.
+

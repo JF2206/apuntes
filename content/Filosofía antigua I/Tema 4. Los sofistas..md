@@ -9,6 +9,7 @@ aliases:
   - Protágoras
   - Antifonte
   - Hipias
+  - Pericles
 ---
 
 28/10/25:
