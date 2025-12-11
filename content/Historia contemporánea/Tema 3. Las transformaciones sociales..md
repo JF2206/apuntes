@@ -957,3 +957,14 @@ Las respuestas nacionales a la crisis
 	- Programa socialista (León Blum): Acuerdos de Matignon
 		- Aumento de salarios, reducción de la semana laboral, vacaciones pagadas, institucionalización de los convenios colectivos
 	- Devaluación monetaria, regulación de los precios agrarios
+- Alemania
+	- Crisis fuerte y relacionada con ascenso del fascismo
+	- La reactivación nazi (política autárquica)
+	- Planes de obras públicas y rearme
+		- Absorción por el Estado del paro: pleno empleo en 19..
+		- Regulación del comercio exterior
+- Las colonias y Latinoamérica
+	- Caída de precios agrícolas
+	- Caída de la demanda de los países industrializados
+	- Repatriación de capitales extranjeros
+	- Inestabilidad política
