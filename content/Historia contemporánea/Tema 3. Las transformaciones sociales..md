@@ -944,3 +944,16 @@ Las respuestas nacionales a la crisis
 			- Escasos, debido a la falta de inversión privada
 			- 1937: 7,3 millones de parados
 			- Oposición de las élites económicas norteamericanas
+- Gran Bretaña
+	- Abandono del patrón oro y devaluación de la libra en un 25%
+	- Nuevos aranceles para las importaciones (Import Duties Act)
+	- Acuerdos de Otawa: proteger el mercado imperial
+	- Resultados inmediatos
+		- e recuperan los niveles productivos y salariales en 1935
+		- Elevación de las exportaciones
+- Francia
+	- La crisis afectó menos al principio
+	- Política deflacionista
+	- Programa socialista (León Blum): Acuerdos de Matignon
+		- Aumento de salarios, reducción de la semana laboral, vacaciones pagadas, institucionalización de los convenios colectivos
+	- Devaluación monetaria, regulación de los precios agrarios
