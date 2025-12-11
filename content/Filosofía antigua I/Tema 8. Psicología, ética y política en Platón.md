@@ -30,5 +30,5 @@ Principio del isomorfismo estructural: existe una estructura análoga, igualment
 - La existencia de las tres necesidades básicas asegura la producción de bienes para asegurar la subsistencia, defensa y gobierno.
 - Los tres tipos de deseos dan lugar a las tres partes del alma, así como a las tres clases del estado ideal, formado por aquellos tipos humanos en los que prevalece cada uno de ellos: los gobernantes (deseo de conocer), los militares (honor) y los productores (el dinero, la concupiscencia).
 
-> En la política de [[Tema 6. Platón|Platón]] hay una especialización funcional, en contra de la versatilidad democrática del ciudadano ateniense.
+> En la política de [[Tema 6. Platón|Platón]] hay una especialización funcional, en contra de la versatilidad democrática del ciudadano ateniense. Esto se opone a la posición de [[Tema 4. Los sofistas.|Protágoras]], el cual representa el ideario político de Pericles. Cuando plantea la lectura democrática del mito de Prometeo, propone una antropología al servicio de la democracia ateniense: todos los ciudadanos, independientemente de su oficio, deben participar de la gestión de la polis.
 
