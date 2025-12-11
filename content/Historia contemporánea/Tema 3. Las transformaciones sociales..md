@@ -833,3 +833,114 @@ Las crisis prerrevolucionarias
 		- Desaparición de la aldea tradicional y de la pequeña propiedad familiar
 		- Disparidad de precios: bajos para agricultores/altos para el consumo.
 		- No hubo incremento de la producción ni de la productividad.
+
+11/12/25
+
+Los efectos de la IGM
+- Se pone en cuestión los fundamentos del capitalismo liberal
+Factores antes de 1914
+- Alteración del mercado internacional
+- Surgimiento de nuevas potencias industriales (EE.UU y Alemania)
+- Incremento de la producción industrial
+Cambios en el sistema capitalista
+- Introducción de los estados en la economía
+- Relación estrecha entre bancos e industria
+- Nuevos métodos de intensificación del trabajo
+Desintegración del "viejo mundo"
+- Dislocación de los intercambios internacionales
+- Avance de los nacionalismos económicos
+- Problemas de financiación y los daños de la guerra
+- Intervencionismo estatal y aumento de precios
+- Predominio de Wall Street, el dólar
+- Fracaso económico de la paz
+- Ausencia de reglas de juego para la economía internacional
+- Culpabilidad alemana dificulta la reconstrucción
+Los límites de la expansión de los años 20
+- Factores para el crecimiento económico
+	- Avances tecnológicos
+	- Aumento demográfico
+	- Avances en la agricultura
+	- Desarrollo de las comunicaciones
+- Factores de perturbación según países
+	- Gran Bretaña
+		- Estancamiento, exportación de capitales, descenso de exportaciones
+		- Política deflacionista: aumento del paro
+	- Francia
+		- Los destrozos de la guerra, reconversión e inestabilidad monetaria
+	- Alemania: situación catastrófica
+		- El pago de las reparaciones como humillación
+		- Resistencia, especulación e hiperinflación
+		- Los préstamos de los EE.UU.
+	- Centro Europa
+		- Dificultades económicas por desmembración del Imperio Austro-Húngaro
+		- Surgimiento de nuevos países, con los problemas correspondientes
+	- España e Italia
+		- Economía nacionalista (dictadura)
+		- Infraestructuras y obras públicas: crecimiento y pleno empleo
+	- Latinoamérica
+		- Sustitución de importaciones: aumento de la industrialización
+		- Inversiones extranjeras: EE.UU.
+	- Área del Pacífico (Japón)
+		- Crecimiento e industrialización
+		- Política expansionista
+		- Confrontación con intereses norteamericanos, que llevan instalados desde el año 98 en Filipinas.
+
+Las dificultades económicas: nacionalismo económico
+- Limitaciones a la inmigración (EE.UU)
+	- Quota Act (1921) e Immigration Restriction Act de 1924.
+	- Proteccionismo
+- Gran Bretaña (paso del librecambismo al proteccionismo)
+	- Ley de salvaguarda de las industrias y ley de importación, 1921
+- El avance del proteccionismo: Europa, EE.UU, colonias
+- Las restricciones al tráfico comercial
+- Las perturbaciones monetarias
+	- Crisis patrón oro
+	- Rivalidad entre la libra y el dólar
+	- Fomento de la especulación bursátil
+- "Los felices años veinte" como fenómeno norteamericano
+- A partir de 1925 se invirtió la tendencia
+
+La crisis de 1929
+- La tendencia a la especulación
+- Abundancia de capitales especulativos pero no inversión productiva
+- Desfase entre alza bursátil y la economía real
+- El crack de la bolsa de Nueva York: pánico
+- Desarticulación del sistema financiero (quiebra bancaria)
+- Quiebra de empresas y comercios
+- Acumulación de stock: reducción de precios
+- Descenso de la actividad económica: aumento del paro
+- Exportación de la crisis
+- Repatriación de capitales norteamericanos
+- Caída de exportaciones europeas a EE.UU.
+- Paro y pesimismo
+- Respuesta
+- Políticas deflacionistas
+- Proteccionismo económico (nacionalismo e intervencionismo)
+
+Organización de la reactivación económica: el intervencionismo
+- Ayuda a empresas con dificultades
+	- Subvenciones a fondo perdido
+	- Saneamiento con compra de acciones o créditos baratos
+	- Nacionalización de empresas con déficit crónico
+- Continuación del proteccionismo comercial
+- Restablecimiento del poder adquisitivo del campesinado
+	- Compra de excedentes
+	- Subvenciones por eliminación de cultivos
+	- Fijación de precios agrarios
+- Financiación del rearme (aumento de los gastos militares)
+- Incremento de medidas racionalizadoras y de progreso técnico en las industrias
+
+Las respuestas nacionales a la crisis
+- Estados Unidos
+	- El New Deal de Roosevelt
+		- Devaluación del dólar
+		- A nivel bancario: la Emergency Banking Act
+		- A nivel agrario: la Agricultural Adjustment Act
+		- A nivel industrial: National Recovery Act
+		- Obras públicas
+			- Public Works Administration
+			- Tenessee Valley Authority
+		- Resultados
+			- Escasos, debido a la falta de inversión privada
+			- 1937: 7,3 millones de parados
+			- Oposición de las élites económicas norteamericanas
