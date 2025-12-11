@@ -42,3 +42,15 @@ Tradicionalmente, la justicia consiste en un comportamiento de unos hacia otros.
 
 La justicia se alcanza escuchando a la razón, en tanto que ésta es conocedora del Bien. Por contraste, [[Tema 4. Los sofistas.|Calicles]] tenía una posición hedonista. [[Tema 6. Platón|Platón]] también se opone a [[Tema 4. Los sofistas.|Pericles]], en tanto que cree que el gobierno lo deben ejercer no todos, sino *los mejores*.
 
+> La moderación debe regir sobre toda pulsión, incluida la pulsión de sabiduría. Normalmente se hace énfasis en la moderación de lo concupiscible. Platón critica Estados belicistas o economicistas, en tanto que son dirigidos por almas de tendencia irascible o concupiscible, respectivamente.
+
+> Hay una respuesta al convencionalismo [[Tema 4. Los sofistas.|sofístico]], así como a las teorías del contrato: "la justicia es el orden natural, no convencional en el que recibimos desde fuera mandatos impuestos de manera extraña a nuestros intereses".
+
+La figura del filósofo gobernante es una función que especializa el gobierno: Dar el gobierno a los mejores, que son aquellos que poseen el conocimiento del Bien.
+
+En "La sociedad abierta y sus enemigos", Popper plantea que [[Tema 6. Platón|Platón]] es un enemigo de la sociedad abierta, un inspirador del "tolitarismo moderno". Popper hace una reivindicación de los [[Tema 4. Los sofistas.|sofistas]], en tanto que los considera una "gran generación que defendió a la democracia y la sociedad abierta". En cambio, concibe a [[Tema 6. Platón|Platón]] como un representante del "organicismo", en tanto que el Estado es el *todo* del que formamos parte, y éste prevalece sobre los derechos del individuo.
+
+> Aristóteles criticará a [[Tema 6. Platón|Platón]], en tanto que afirmará que éste plantea un estado *monofónico* en el que hay una sola ideología, un sólo parecer.
+
+> [[Tema 6. Platón|Platón]]: "El Estado mejor gobernado es aquel en el que los gobernantes no quieren serlo".
+

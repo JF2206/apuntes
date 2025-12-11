@@ -10,6 +10,7 @@ aliases:
   - Antifonte
   - Hipias
   - Pericles
+  - sofístico
 ---
 
 28/10/25:
