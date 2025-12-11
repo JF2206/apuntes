@@ -26,4 +26,3 @@ Hay conflicto moral, en tanto que en la acción concurren  tendencias contrarias
 
 > En resumen, la tripartición del alma viene expuesta a partir del conflicto de motivaciones como algo interior al alma.
 
-
