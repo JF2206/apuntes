@@ -1,6 +1,6 @@
 5/12/25
 
-# Contextualización
+# Introducción
 
 En el ámbito latinoamericano hay una cierta unión por la cuestión cultural, entre países latinoamericanos y en relación con España. Sin embargo, lo que nos interesa es que, en el ámbito filosófico, también ha existido interacción entre la filosofía española y la latinoamericana, en ambos sentidos. Tal es la razón de incluir una presentación basada en la identidad lingüística, en tanto que compartida con los países latinoamericanos.
 
@@ -80,7 +80,7 @@ El objetivo más fundamental, la condición presente es aquella que requiere una
 
 Así, la filosofía latinoamericana se formula en términos de "Filosofía de la liberación", y no es una filosofía del Ser o del lenguaje, tal y como se vienen haciendo en Occidente.
 
-En 1969, Zea escribe un texto de respuesta a Bondy, en el que plantea una crítica a la propuesta de Bondy (Bondy: primero hay que lograr salir del subdesarrollo y después plantear una filosofía genuina) Hay que desactivar el ideal de progreso, el estado óptimo concebido desde una perspectiva Europea, en tanto que no corresponde a la realidad y a la cultura que se ha venido construyendo en Latinoamérica. Según Zea, Bondy está en el mismo supuesto, en tanto que plantea ciertas cotas de progreso, libertad, como necesarias para la realización de una filosofía auténtica, todo con categorías y en la línea europea.
+En 1969, Zea escribe un texto de respuesta a Bondy -el cual planteó su visión enajenada del pensamiento latinoamericano en un artículo de 1968-, en el que plantea una crítica a la propuesta de Bondy (Bondy: primero hay que lograr salir del subdesarrollo y después plantear una filosofía genuina) Hay que desactivar el ideal de progreso, el estado óptimo concebido desde una perspectiva Europea, en tanto que no corresponde a la realidad y a la cultura que se ha venido construyendo en Latinoamérica. Según Zea, Bondy está en el mismo supuesto, en tanto que plantea ciertas cotas de progreso, libertad, como necesarias para la realización de una filosofía auténtica, todo con categorías y en la línea europea.
 
 >Zea: "La autenticidad no ha de ser consecuencia de esa posible revolución social y económica, sino la base de su posibilidad".
 
@@ -102,4 +102,108 @@ Vamos a ver algunos rasgos de lo que se va generando como filosofía latinoameri
 	- Reconstrucción de la filosofía colonial: Para saber qué somos es fundamental conocer nuestra propia historia. Un tramo fundamental es "la etapa colonial", comprendiendo desde el S.XVI hasta el S.XX. La llegada de los españoles supuso un trasplante del estado del saber español en Latinoamérica. 
 	- Reconstrucción de las culturas precolombinas: en gran parte arrasado, en otra parte ignorado, en otra parte mestizaje. Conocer esas culturas anteriores a la llegada de los europeos es otra de las tareas en relación con la historia que se plantea cuando se pone en marcha la elaboración de una filosofía latinoamericana.
 
-En 1971 se convoca el Congreso de Córdoba (Argentina), en el que, en el contexto de todas las discusiones, propuestas, artículos, etc., se propone como tema fundamental, como título "Hacia una filosofía de la liberación latinoamericana". Se constituye un grupo de trabajo más o menos organizado y coordinado para trabajar en una determinada línea, que acaba constituyendo una corriente filosófica propia de América Latina, elaborada por filósofos latinoamericanos, en relación con la problemática latina y con unos caracteres y rasgos que se pueden identificar. 
+En 1971 se convoca el Congreso de Córdoba (Argentina), en el que, en el contexto de todas las discusiones, propuestas, artículos, etc., se propone como tema fundamental, como título "Hacia una filosofía de la liberación latinoamericana". Se constituye un grupo de trabajo más o menos organizado y coordinado para trabajar en una determinada línea, que acaba constituyendo una corriente filosófica propia de América Latina, elaborada por filósofos latinoamericanos, en relación con la problemática latina y con unos caracteres y rasgos que se pueden identificar. La mayoría de los actores principales en la filosofía de la liberación asistieron a este congreso (por ejemplo, Dussel, Cerruti o Scannone).
+
+12/12/25
+
+Clases de Betancourt: 20 y 22 de enero a las 9:00h, 21 de enero por la tarde, en el aulario de posgrado cerca de la calle "Cardenal Parraldo".
+
+Dante Ramaglia: "Filosofía latinoamericana es aquella que tiene como objeto fundamental los problemas específicos de Latinoamerica".
+
+Hoy veremos en qué consiste propiamente la Filosofía de la liberación.
+
+Ellacuría hizo, a partir de la metafísica de [[Xavier Zubiri|Zubiri]], una filosofía de la historia en el contexto latinoamericano, específicamente a partir de la filosofía de la liberación, donde hay un componente marxista importante. Aplica la terminología y categorías zubirianas para desarrollar su propio pensamiento.
+
+# Contexto y circunstancias de la filosofía de la liberación
+
+## Contexto político-militar
+
+Estamos en mitad del S.XX. La situación político-militar es aquella que había surgido del final de la IIGM (1945). Los vencedores *se reparten el mundo, el poder y la verdad*, luego escriben la historia. 
+
+>El mundo se repartía fundamentalmente en dos bloques: la URSS y EEUU, con sus respectivos ámbitos de influencia.
+
+El enfrentamiento era más o menos soterrado, lo que se denominó *guerra fría*, en tanto que la guerra se situaba en su expresión más directa en territorios ajenos.
+
+América Latina constituía un *objeto de deseo*, en tanto que ambos bloques pretendían controlarla y dominarla. Desde Estados Unidos, se concibe América Latina como *el patio trasero*.
+
+Sin embargo, empieza a haber levantamientos en contra, insurgencias críticas, contra esa situación de dominio y opresión, de desprecio, por parte de EEUU hacia Latinoamérica. El primer lugar donde se produce una revuelta significativa, exitosa, es en Cuba. El bloqueo derivado de tal revolución llevó a una dependencia económica por parte de Cuba hacia la URSS. Tal influencia soviética en Latinoamérica generó grandes tensiones -por ejemplo, la Crisis de los misiles-.
+
+En los años 60 empezaron a formarse guerrillas en diversos países latinoamericanos para luchar en contra de los dictadores mantenidos por EEUU en cada país. Esas guerrillas tuvieron diverso éxito. Llegó un momento en el que el gobierno de EEUU decidió no tolerar más estos procesos en Latinoamérica, sirviendo como ejemplo de su hacer el golpe de Estado de Pinochet en Chile, instaurando un gobierno sumiso a EEUU.
+
+En Nicaragua gana la Guerrilla del FSLN, destituyendo a Somoza y liberando el pueblo nicaragüense.
+
+Inmediatamente después, el FMLN en El Salvador plantea seguir la senda del FSLN, esta vez con la intervención directa de EEUU, temeroso de la influencia soviética cercana. Éste fue el contexto en el que se encontraba Ellacuría, el cual fue asesinado por EEUU.
+
+## Contexto social
+
+La inmensa mayoría de los pueblos latinoamericanos vivían en la miseria, ya crónica, histórica. No se trata de un fenómeno novedoso; nunca han tenido un "progreso" significativo, entendiendo progreso en un sentido europeo. Se encontraban en una situación de control y dominación. Los tratados de "cooperación" con EEUU no eran más que un arma de sumisión hacia los países latinoamericanos.
+
+En tal contexto se desarrolla la denominada *Teoría de la dependencia*, elaborada fundamentalmente por los economistas de Chicago. Puede entenderse como un intento de comprensión, de interpretación de la situación de Latinoamérica respecto de EEUU. Participan figuras como Freire con su *pedagogía de los oprimidos*. Freire intenta abordar la situación de pobreza, de miseria, no sólo desde la economía, sino desde la cultura, la educación, etc.
+
+> Freire elaboró proyectos y propuestas en la línea de un mayor grado de educación
+
+## Contexto filosófico
+
+Tal y como se ha expuesto en las sesiones pasadas, se consolida en el congreso de Córdoba de 1971 el proyecto común de establecer una filosofía latinoamericana. 
+
+Las guerrillas no se estaban formando "por gusto de irse al campo", sino que respondía a unos determinados planteamientos teóricos, a unas determinadas concepciones de qué es lo que hay que hacer o qué es lo que se puede hacer en la situación concreta. El fundamento teórico de prácticamente todas las guerrillas era el marxismo; los ideólogos de las guerrillas eran marxistas. Tal adopción radica en la orientación a la transformación social, la concepción de sociedades más justas, igualitarias, solidarias, luchar contra las diferencias sociales, etc., del marxismo.
+
+> El marxismo constituye un armazón teórico, una plataforma política, para analizar las situaciones concretas.
+
+No se trata del marxismo-leninismo al uso, trasplantado, de la URSS, en tanto que se plantean versiones, interpretaciones y desarrollos del marxismo de Marx diferentes del de la URSS.
+
+Para EEUU, esto suponía la difusión ideológica del marxismo, y por tanto la influencia soviética a nivel ideológico en países muy cercanos.
+
+EEUU fundó la UCA (Universidad Centroamericana), con el objetivo de *parar el marxismo*. La gestión y explotación de la UCA fue encomendada a los jesuitas. Sin embargo, con la llegada de Ellacuría y otras figuras, a través de la filosofía y teología de la liberación, se acabó difundiendo de alguna forma el marxismo, llevando a la intervención a través del asesinato por parte de EEUU.
+
+## Contexto religioso
+
+El cristianismo como teología colonialista. Durante siglos se implanta, y a la altura de mitad del S.XX las sociedades latinoamericanas eran fundamentalmente y principalmente católicas.
+
+Empieza a difundirse una doctrina de la iglesia a raíz del Concilio Vaticano II, convocado por Juan XXIII. Tuvo un impacto muy importante ideológico en los planteamientos de la Iglesia Católica.
+- A principios del S.XX, al rededor de 1910, declaró como su filosofía oficial la de Santo Tomás de Aquino. De tal forma, no podían defenderse concepciones del mundo ajenas o incoherentes de alguna forma con el tomismo.
+- La modernidad ilustrada, todo el paradigma cultural que va construyéndose con Descartes, Galileo, Leibniz, Newton..., consolidándose en el S.XVIII como ilustración, era entendido por la Iglesia Católica como militantemente ateo, antirreligioso, lo cual era verdad *hasta cierto punto*.
+- Esto dio lugar a multitud de enfrentamientos con distintos miembros de la Iglesia Católica, dándose muchas expulsiones, excomuniones, etc., acusados de *modernismo*, es decir, intentos de asumir lo que había supuesto la modernidad.
+
+> En el Concilio Vaticano II se replantea la doctrina católica, y principalmente la doctrina social de la Iglesia, desencadenando un movimiento de transformación en el sentido de asumir la modernidad en la medida en que fuera compatible con la visión católica, y planteando una doctrina eclesiástica más comprometida con la justicia, solidaridad... 
+
+Esto dio lugar a muchos movimientos de liberación desde la iglesia, como los *curas obreros*. Por ejemplo, ETA -se fundó en un seminario-.
+
+En 1968 tuvo lugar la Conferencia Episcopal de Medellín, Colombia. Allí se reunieron muchos de los obispos latinoamericanos, para interpretar y plantear lo que habían sido los documentos y doctrinas fundamentales del CVII en América Latina. Así, empezó a haber un movimiento en la misma línea de solidaridad e identificación con los más pobres, etc. Constituyéndose un problema para la misma jerarquía de la Iglesia y para el Gobierno de EEUU.
+
+José María Castillo (caso granadino).
+
+EEUU reacciona financiando la fundación de iglesias protestantes en América, situación que llega hasta nuestros días.
+
+En este contexto se comienza a desarrollar una Teología de la Liberación. El primer libro que se publica en esta línea es *"Teología de la liberación: perspectivas"* de Gustavo Gutiérrez, en 1971. Fue rechazado frontalmente desde el Vaticano, y fundó una teología de la liberación que sigue hasta nuestros días.
+
+# Características de la filosofía de la liberación
+
+La filosofía de la liberación no es una corriente unificada, con unos textos fundacionales claros y asumidos por todos, con unos clásicos, etc., dada su reciente concepción: no ha habido *tiempo histórico* ni *tiempo filosófico* suficiente para ello.
+
+> Sin embargo, hay multitud de propuestas, sugerencias, planteamientos, discusiones... dentro de un cierto contexto: filosofía aplicada fundamentalmente en el ámbito de la razón práctica (ética, política, economía, derecho).
+
+### 1. La razón se mueve por intereses
+
+Por tanto, en filosofía se han hecho muchas teorías de *los intereses de la razón*. Intereses de carácter filosófico, es decir, aquellos que son *universalizables*, es decir, exigibles a todo ser racional, en contraste con los intereses particulares, legítimos en su propio ámbito.
+
+> Los intereses propios a la razón son los *universalizables legítimos*, los que deben ser planteables a todo ser racional.
+
+Kant hace su teoría de sus intereses de la razón, así como Habermas, por citar dos filósofos. Se ha dicho que aquello que mueve a la razón es el interés, no los argumentos.
+
+> En el caso de la filosofía de la liberación, el interés fundamental que mueve a la razón es la liberación.
+
+Tal interés depende de un determinado diagnóstico de la situación, es decir, un análisis de las condiciones, de la situación en la que nos encontramos. En concreto, el diagnóstico que está en la base de este interés es la asunción de que vivimos en un mundo estructuralmente injusto. Esto lleva a percibir como lo más urgente y prioritario, lo más operativo para organizar la acción, el análisis, la interpretación y la teoría, es realizar un proceso de liberación de los pueblos.
+
+El punto de partida de la puesta en marcha de la reflexión filosófica es, por tanto, la experiencia de la pobreza. Se considera la experiencia primera, más básica y originaria, en todos los sentidos, no sólo económica o material, sino también psicológica, cultural, espiritual... en tanto que hay cierta coherencia entre las distintas dimensiones sociales.
+
+La tarea de la filosofía, en tanto que necesariamente teórica, es por tanto conocer, analizar, estructurar la situación, de tal manera que se puedan hacer interpretaciones, teorías, que realmente sirvan para orientar la praxis, muy en relación con la dinámica marxista: la teoría que elabora Marx sirvió para orientar la acción guerrillera en Latinoamérica.
+
+> La tarea de la filosofía es elaborar teorías, interpretaciones de la realidad, que sirvan para orientar la acción, pensar alternativas.
+
+Es en este contexto filosófico que se elabora la polémica *teoría de la dependencia*.
+
+No hay un acuerdo generalizado sobre el sujeto que debe llevar a cabo esta acción liberadora, hay propuestas diversas: el proletariado, la clase trabajadora, el pueblo, las clases populares...
+
+Se elaboran metodologías para llevar adelante esa estrategia teórica y práctica. Tampoco hay un acuerdo unificado, en tanto que hay diversas propuestas de métodos que tienen, por lo menos, dos características más o menos generales:
+1. Inculturación: La filosofía se tiene que hacer en el marco de la cultura concreta de los grupos, de las sociedades, de los pueblos... a los que va dirigida. **La filosofía de la liberación es una filosofía de la experiencia**: Se debe pasar por determinadas experiencias, situaciones, de tal manera que se pueda realizar algo de provecho en el sentido de la filosofía de la liberación. En otras concepciones (Kant, Descartes), el método es **a priori**, en tanto que primero se concibe y luego se aplica. Sin embargo, la posición es radicalmente opuesta: primero hay que vivir la realidad y después plantear el método. La filosofía de la liberación es, pues, un *modo de vida*. Ellacuría: "para poder plantear un cambio desde la filosofía hay que ponerse en *el lugar que da verdad*": lugar no geográfico, sino experiencial.
