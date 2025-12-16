@@ -58,4 +58,44 @@ En "La sociedad abierta y sus enemigos", Popper plantea que [[Tema 6. Platón|Pl
 
 El pesimismo antropológico lleva a [[Tema 6. Platón|Platón]] a abandonar el sistema político de la república, en su *segunda navegación*. En este punto de su vida, concibe el poder como corruptor, luego debe ser limitado de alguna forma para el correcto funcionamiento de la polis.
 
+16/12/25
+
+En relación con la utopía platónica -Platón no aplica el término utopía, sino "la mejor ciudad"-, no está claro si el propio Platón la consideraba realizable, especialmente en los últimos años de su vida. En todo caso, debe tratarse de un paradigma en el cielo, una especie  de criterio que se puede tener a la vista para juzgar a cerca de la justicia de un régimen político determinado.
+
+Platón propone tres medidas, a sabiendas de que pueden desencadenar *tres olas de carcajadas*, en tanto que es desacostumbrado, contra las creencias establecidas. Ésto pone de manifiesto la importancia de la distinción epistemológica entre doxa y episteme. Si nos limitáramos a la doxa, no podríamos hacer propuestas o plantear cuestiones que rompan con lo establecido:
+1. Igualdad de mujeres y hombres.
+2. Comunismo de todo tipo de propiedades y de la familia *en la clase gobernante*.
+3. Gobierno de los filósofos. Según la visión de la época, se concebía el filósofo como un científico, o una persona alejada de la realidad, dedicada al estudio, todo lo contrario a *los hombres de acción*, los que normalmente son considerados más apropiados para tales cargos.
+
+> El gobierno como ciencia o técnica del Estado. Punto de vista profundamente contrario a la ideología defendida por [[Tema 4. Los sofistas.|Protágoras]] y [[Tema 4. Los sofistas.|Pericles]].
+
+En la analogía de *La nave del Estado*, Platón plantea tres elementos:
+- Patrón
+- Marineros
+- Piloto: representa el *arte de navegar*
+
+Para Platón, en la democracia ateniense mandan los marineros, luego el piloto no puede imponer el arte de navegar. El patrón es fácilmente manipulable, por todos los medios, y viene a representar al pueblo ateniense. El piloto es un meteoroskópos, es decir, un *miracielos* que no tiene visión sobre el estado de las cosas y las medidas necesarias.
+
+Tal y como ya hemos indicado, Platón se va haciendo más pesimista al final de su vida. La antropología en la que se basa el modelo utópico se fundamenta en la creencia de que *la razón puede dominar en la vida humana*, es decir, que se puede imponer a otros factores irracionales, como la cólera, e imponer un orden justo. 
+
+Sin embargo, cuando llegamos a las *leyes*, última obra platónica según la tradición e inacabada, se plantea un ser humano como marioneta, dominado por dos cuerdas, el placer y el dolor. Hay una tercera cuerda, fina y delicada, que viene a representar *la razón*.
+
+> El Platón tardío desconfía en el poder de la razón
+
+El segundo mejor régimen sería aquel en el que el poder, encarnado en el gobernante, está ordenado por la ley.
+
+- Sustitución del filósofo gobernante por el gobierno de la ley. Los guardianes del Estado ahora son guardianes de las leyes: deben velar por ellas, y por su cumplimiento.
+- Fin del comunismo de la clase gobernante, permitiéndose la propiedad privada a todas las clases del Estado.
+- Instauración de cuatro clases, basadas en diferentes niveles de propiedad -no se permite una propiedad ilimitada-.
+- Eliminación del principio de la especialización funcional, con participación de todos los ciudadanos en las funciones del Estado.
+
+En La República, el orden de *mejor a peor* era: 
+
+- En primer lugar, la aristocracia, en el sentido etimológico de la palabra -el gobierno de *los mejores*-, 
+- En segundo lugar, la timocracia, un gobierno basado en el honor, el gobierno de los militares
+- En tercer lugar, la oligarquía, el gobierno de unos pocos, los ricos.
+- En cuarto lugar, la democracia, el gobierno del *populacho*, que se deja engañar como el patrón de la nave, por los demagogos.
+- En quinto lugar, la tiranía, la dictadura del tirano.
+
+En Leyes se produce una revaloración de la democracia, en tanto que el mejor gobierno posible debe incluir un elemento democrático: "igualdad para que exista amistad y concordia". Debe ser una igualdad combinada con la monarquía, no entendida como "el gobierno de uno solo".
 
