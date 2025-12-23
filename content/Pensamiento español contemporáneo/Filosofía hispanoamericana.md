@@ -1,5 +1,5 @@
 5/12/25
-asdf
+
 # Introducción
 
 En el ámbito latinoamericano hay una cierta unión por la cuestión cultural, entre países latinoamericanos y en relación con España. Sin embargo, lo que nos interesa es que, en el ámbito filosófico, también ha existido interacción entre la filosofía española y la latinoamericana, en ambos sentidos. Tal es la razón de incluir una presentación basada en la identidad lingüística, en tanto que compartida con los países latinoamericanos.
