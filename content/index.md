@@ -1,5 +1,5 @@
 ---
-title: ¡Bienvenido/a a mis apuntes de filosofía!
+title: Apuntes de filosofía en la Universidad de Granada.
 ---
 Aquí encontrarás apuntes del *Grado en filosofía* de la *Universidad de Granada*. Dichos apuntes corresponden a las asignaturas que voy cursando, comenzando en el año académico 2025/2026.
 
