@@ -279,7 +279,7 @@ Demócrito dirá que la miel no es ni dulce ni amarga, mientras que Protágoras 
 
 4/11/25
 
-Comentarios finales sobre lo visto:
+# Comentarios finales
 
 - Cuando Protágoras utiliza la palabra antrhopos, no se sabe si la utiliza en un sentido individual (hombre concreto) o en un sentido genérico. Platón y Aristóteles la interpretaron en un sentido individual: cada persona es medida de las cosas, la verdad es referida al punto de vista individual.
 
