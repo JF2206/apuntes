@@ -22,15 +22,16 @@ aliases:
 # Crítica platónica a la sofística (apuntes de Alba)
 
 [[Tema 6. Platón|Platón]] ha criticado con dureza a los sofistas, tanto desde un punto de vista moral como gnoseológico.
-	- Crítica moral: Platón niega que la retórica y la sofística hayan alcanzado el nivel científico de una auténtica *techné* y las rebaja a meros simulacros de las verdaderas artes, cuyo lugar han usurpado. Mientras que las verdaderas *techné* son la legislación o la justicia, la sofística (persuasión política, engaño) y la retórica (placer, seducción) son partes de la adulación que ponen su objetivo en el placer en lugar del bien.
-	- Crítica gnoseológica: Platón acusa a la sofística de ser una mera práctica empírica que desconoce la naturaleza del alma, suplantando al verdadero saber por desconocer las causas de aquello sobre lo que actúa. Por tanto, junto a la retórica, son actividades irracionales.
+- Crítica moral: Platón niega que la retórica y la sofística hayan alcanzado el nivel científico de una auténtica *techné* y las rebaja a meros simulacros de las verdaderas artes, cuyo lugar han usurpado. Mientras que las verdaderas *techné* son la legislación o la justicia, la sofística (persuasión política, engaño) y la retórica (placer, seducción) son partes de la adulación que ponen su objetivo en el placer en lugar del bien.
+
+- Crítica gnoseológica: Platón acusa a la sofística de ser una mera práctica empírica que desconoce la naturaleza del alma, suplantando al verdadero saber por desconocer las causas de aquello sobre lo que actúa. Por tanto, junto a la retórica, son actividades irracionales.
 ## Definición platónica del sofista (frente al filósofo) (apuntes de Alba)
 
 Una de las características que define a los sofistas es su capacidad para practicar el *método antilógico*, es decir, en cuestionar o contradecir cualquier argumento que pueda sostener el adversario, en tanto que el interlocutor es interpretado como alguien con quien se ha de luchar. Por ello, [[Tema 6. Platón|Platón]] deduce que si se concibe el discurso como una especie de combate en el que se intercambian argumentos en vez de golpes, es porque su móvil es el lucro, el poder o el dinero.
 
 Además, lo que verdaderamente define al sofista es su __extensión universal__, ya que el método antilógico parece tener capacidad de cuestionar todas las cosas. Platón considera imposible que un hombre pueda tener ciencia verdadera sobre todas las cosas. La sofística tiene capacidad de generar la creencia de un saber universal, pero precisamente esta extensión universal es la mejor prueba de su carácter ilusorio: no se trata de una __ciencia verdadera__, sino de un __saber aparente__ sobre todas las cosas.
 
-	P. Aubenque: "la impostura moral de un arte que sacrifica la verdad en aras de la omnipotencia"
+> P. Aubenque: "la impostura moral de un arte que sacrifica la verdad en aras de la omnipotencia"
 
 Así, el filósofo se define frente al sofista, hasta el punto de presentarlo como *alter ego* del verdadero filósofo. [[Aristóteles]] afirma que __la sofística es sabiduría aparente de las cosas que sólo el filósofo conoce verdaderamente__.
 
@@ -57,10 +58,10 @@ En el Protágoras de [[Platón]], [[Tema 5. Sócrates.|Sócrates]] defiende que 
 ### El mito de Prometeo en el Protágoras de [[Tema 6. Platón|Platón]]
 
 El mito describe el momento en el que deben nacer todas las especies. Los dioses encargaron a Epimeteo y Prometeo el reparto de las "facultades" necesarias para sobrevivir. Epimeteo se encargó de repartir todos los dones que la naturaleza otorga a las especies para su supervivencia, pero se olvidó del ser humano, quedando desprovisto de todo lo necesario para poder vivir.
-- Las teorías filosóficas anteriores habían suprimido la intervención de los dioses en los procesos naturales, por lo que la cultura y la civilización aparecen como un triunfo de la razón sobre la necesidad, logrado por la humanidad gracias a sus propias fuerzas frente a una naturaleza adversa.
-El mito distingue entre __dos aspectos diferentes y complementarios de la naturaleza humana__:
-- La intervención de Prometeo, que roba el fuego y lo dona a los hombres, buscando una salvación para el ser humano que halló en la razón, porque el fuego hacía posible una __sabiduría técnica__. Esto representa lo que hoy denominamos __razón instrumental__: Gracias a la técnica se producen los recursos necesarios para la vida humana. En esta razón instrumental no estaba incluida la "sabiduría política" (Zeus (?)): aunque los hombres lograban satisfacer sus necesidades, no podían sobrevivir, en tanto que vivían dispersos, no existían ciudades y, aunque intentaran fundarlas para protegerse, cometían injusticias los unos con los otros.
-- La intervención de Zeus les envía a los hombres __el pudor y la justicia__ para que hubiera __orden en las ciudades__. Mientras las técnicas son otorgadas sólo a los especialistas, __las cualidades que hacen posible la vida en comunidad son otorgadas a todos los seres humanos__. La condición moral del ser humano es, pues, un aspecto de su naturaleza racional que se desarrolla comunitariamente, y ha de estar presente en todos ellos.
+- Las teorías filosóficas anteriores habían suprimido la intervención de los dioses en los procesos naturales, por lo que la cultura y la civilización aparecen como un triunfo de la razón sobre la necesidad, logrado por la humanidad gracias a sus propias fuerzas frente a una naturaleza adversa. El mito distingue entre __dos aspectos diferentes y complementarios de la naturaleza humana__:
+	- La intervención de Prometeo, que roba el fuego y lo dona a los hombres, buscando una salvación para el ser humano que halló en la razón, porque el fuego hacía posible una __sabiduría técnica__. Esto representa lo que hoy denominamos __razón instrumental__: Gracias a la técnica se producen los recursos necesarios para la vida humana. En esta razón instrumental no estaba incluida la "sabiduría política" (Zeus (?)): aunque los hombres lograban satisfacer sus necesidades, no podían sobrevivir, en tanto que vivían dispersos, no existían ciudades y, aunque intentaran fundarlas para protegerse, cometían injusticias los unos con los otros.
+
+	- La intervención de Zeus les envía a los hombres __el pudor y la justicia__ para que hubiera __orden en las ciudades__. Mientras las técnicas son otorgadas sólo a los especialistas, __las cualidades que hacen posible la vida en comunidad son otorgadas a todos los seres humanos__. La condición moral del ser humano es, pues, un aspecto de su naturaleza racional que se desarrolla comunitariamente, y ha de estar presente en todos ellos.
 
 En esta distinción, presente en el mito, entre razón técnica y razón moral, se halla el __fundamento de la democracia griega__, ya que todos los ciudadanos, independientemente de su oficio y de su competencia profesional, están llamados a participar en la gestión de la vida pública. Zeus trasmite a Hermes la orden de imponer una "ley", pues __la ley es necesaria para la supervivencia de la especie__, de manera que __no hay oposición entre phýsis y nómos__.
 	Las normas que una sociedad se otorga a sí misma son justas sólo porque la sociedad así lo ha determinado, y mientras ésta lo considere oportuno (convencionalismo). En realidad, las leyes positivas, que tienen una validez sujeta a circunstancias de tiempo y lugar, no pueden considerarse fundadas en la naturaleza, ni en un orden invariable e inmutable.
@@ -75,7 +76,7 @@ Sumado a esto, Protágoras ofrece una __teoría ilustrada del castigo__, que se 
 
 Preguntas para orientar un comentario de texto, a cerca del primer texto del bloque:
 
-    1. ¿Qué posicion mantiene Protágoras en la oposición entre las physis y el cosmos?
+    1. ¿Qué posicion mantiene Protágoras en la oposición entre las physis y el nómos?
 
     2. ¿Qué significa la obra de Epimeteo? ¿Por qué es insuficiente para la vida humana el regalo de Prometeo?
 
@@ -121,7 +122,7 @@ Calicles le da a la naturaleza un valor normativo, es defensor de la ley de la n
 
 Sócrates plantea: ¿qué debe hacer aquél hombre libre con su poder? ¿debe dominar sólo a los demás, o también a sí mismo?
 
-El más fuerte debe alimentar su ser de poder, no poner traba a sus deseos e intentar obtener sus objetivos con decisión e inteligencia (se plantea el juego entre las pasiones y la inteligencia, tema que retomaremos con Platón)
+El más fuerte debe alimentar su sed de poder, no poner traba a sus deseos e intentar obtener sus objetivos con decisión e inteligencia (se plantea el juego entre las pasiones y la inteligencia, tema que retomaremos con Platón)
 
 Calicles es un "político despiadado" que no cree en los principios básicos de la democracia griega.
 
@@ -193,7 +194,7 @@ Otra de las diferencias consiste en que __las disposiciones de las leyes son imp
 
 Asimismo, __la utilidad de las leyes fijadas es una cadena que se impone a la naturaleza, mientras que lo útil en la naturaleza es libre__.
 
-Para Antifonte, la utilidad de los preceptos legales, en cualquier gradación, produce dolor, pues no son más que principios restrictivos de las demandas naturales. Su posición es por tanto __cercana al hedonismo de Calicles__, pues __el placer es el criterio de los naturalmente adecuado__.
+Para Antifonte, la utilidad de los preceptos legales, en cualquier gradación, produce dolor, pues no son más que principios restrictivos de las demandas naturales. Su posición es por tanto __cercana al hedonismo de Calicles__, pues __el placer es el criterio de lo naturalmente adecuado__.
 
 | __Phýsis (naturaleza)__        | __Nómos (convención)__        |
 | ------------------------------ | ----------------------------- |
