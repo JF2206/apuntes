@@ -23,10 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.ClassName({
-      className: "toc-static",
-      component: Component.TableOfContents(),
-    }),
+    Component.TableOfContents(),
   ],
   left: [
     Component.PageTitle(),
