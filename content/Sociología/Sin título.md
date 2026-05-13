@@ -91,3 +91,35 @@ Como oposición polémica, John R. Searle, con "La construcción de la realidad 
 Berger y Luckmann opinan que la realidad se construye. Plantean que, en un momento dado, hay preguntas que no tienen mucho sentido (¿hay una realidad distinta de lo que percibimos?), posición similar al de Berkeley con la eliminación de la materia.
 
 Frente a la construcción social de la realidad, Searle opina que lo que se construye, en todo caso, es la realidad social, no la realidad en general. Podemos distinguir entre hechos brutos (de realidad inapelable) y hechos institucionales, que se da cuando tenemos cualidades que no se siguen de características físicas. Un billete, por ejemplo, es un hecho institucional: no se sigue de sus características físicas el valor que ostenta. En cuestiones epistemológicas, Berger y Luckmann opinarán que **cocimiento es todo aquello que en una determinada sociedad se define como conocimiento**.
+
+
+13/5/26
+
+Berger & Luckmann: La construcción social de la realidad.
+
+Fases de institucionalización social de la realidad:
+
+1. Proceso de externalización: fundamentación antropológica en las carencias instintivas que tiene el animal humano.
+2. Proceso de objetivación: emerge la sociedad como realidad objetiva, para organizar la existencia y darle sentido. Se establecen como objetivo, se nos presenta el hecho social como exterior. Proceso parecido a la alienación en Feuerbach: Dios es una creación humana, pero adquiere entidad propia y condiciona nuestro comportamiento. Podríamos entender este proceso de objetivación como el proceso de alienación de Feuerbach, pero extendido a toda la cultura. Es de vital importancia la legitimación. Los patrones e instituciones que se crean son contingentes por naturaleza, es decir, podrían ser de otra manera. Objetivarlas implica "engrandecerlas", afianzarlas ideológicamente. Para el proceso de legitimación contemplan cuatro niveles:
+	1. Primer nivel, preteórico, de legitmiación incipiente. Se apela a la tradición, no hay un discurso elaborado.
+	2. Segundo nivel, de las proposiciones teóricas rudimentarias, como los cuentos y refranes. 
+	3. Tercer nivel, de teorías específicas referidas a ámbitos concretos, en términos de un saber especializado. Por ejemplo, orientaciones técnicas que se puedan dar en determinadas ocupaciones.
+	4. Cuarto nivel, el de los "universos simbólicos" o las cosmovisiones. Estructuras teóricas más amplias y elaboradas, que buscan una cierta coherencia interna y tienden a referirse al conjunto de la existencia o a ámbitos muy amplios de ella.
+3. Proceso de internalización: patrones sociales y culturales, externalizados y objetivados, son internalizados por las personas (proceso de socialización). Todo lo que aparece como dado y objetivo, que se manifiesta como exterior, debe asumirse como algo coherente y no arbitrario, que implica su propia necesidad. De ahí que el proceso de ruptura epistemológica consista en desnaturalizar aquello que se concibe como objetivo y universal.
+
+
+Teoría de la verdad en Searle: de la correspondencia o realista. Un enunciado es verdadero si se corresponde con la verdad.
+
+Teoría idealista o de la coherencia: no tanto que haya una correspondencia, sino una cuestión de relaciones entre proposiciones. La verdad es la coherencia de una proposición con otras proposiciones verdaderas.
+- Sentido débil: coherencia es no contradicción, cuando son compatibles.
+- Sentido fuerte: implicación mutua.
+
+Teoría pragmatista: la verdad como utilidad. Un enunciado es verdadero cuando es útil, es decir, que nos sirve para desenvolvernos exitosamente en el mundo.
+
+
+Justificación de Searle para adoptar la teoría realista: aplica un argumento trascendental, en el sentido Kantiano (aplicando condiciones de posibilidad). La teoría realista de la verdad es condición de posibilidad del discurso inteligible. Si aceptamos que nos podemos comunicar, implícitamente estamos dando por válida la teoría realista de la verdad.
+
+Para Searle hay hechos brutos que son completamente ajenos, insensibles e impermeables a toda construcción social. La realidad es aquello que es independiente e indiferente a nuestros deseos. Por otro lado, tenemos hechos institucionales, que son los construidos socialmente, pues consisten en la atribución de una serie de propiedades a fenómenos físicos que no las tienen de suyo, en función de sus atributos. La construcción social de la realidad consiste en asignar funciones.
+
+> Ejemplo: el dinero. Es tal por el acuerdo tácito que permite considerarlo socialmente como tal. Otro hecho institucional: el matrimonio.
+
