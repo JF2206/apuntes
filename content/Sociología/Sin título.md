@@ -123,3 +123,122 @@ Para Searle hay hechos brutos que son completamente ajenos, insensibles e imperm
 
 > Ejemplo: el dinero. Es tal por el acuerdo tácito que permite considerarlo socialmente como tal. Otro hecho institucional: el matrimonio.
 
+25/5/26:
+
+# 3.2. Orden, control social y desviación
+
+Lo que entendemos por normal, lo que se ajusta al orden, es básicamente el funcionamiento previsto de las instituciones y la asunción no conflictiva de los roles sociales asignados.
+
+> Esas tipificaciones sociales, instituciones sobre las que se sostiene la sociedad, se supone que funcionan.
+
+Las personas se ajustan a tales instituciones ejecutando los roles que se les asignan. El orden evita o reduce la desviación, siendo la desviación toda conducta que se aparta del orden establecido. De la definición, siempre contingente y discutible, de normalidad.
+
+Tal normalidad puede ser más rígida o más laxa, pero en toda sociedad hay una definición de normalidad con respecto a la cual se define la desviación.
+
+La desviación puede darse por causas tan arbitrarias como el aspecto físico (por ejemplo, en Freaks).
+
+Principio fundamental de la teoría de la desviación: la desviación también es normal. Todo orden social define órdenes de desviación, así como formas institucionalizadas de desviación.
+
+Otro elemento de control, esta vez informal: el ridículo. La pérdida de credibilidad y potencial ostracismo al que se puede ver sometido un sujeto desviado.
+
+Hay incluso ciertas conductas delictivas que son esperadas en circunstancias concretas ("yo también habría hecho eso").
+
+Respecto del S.XX, hay quien entiende que están en expansión los sistemas de control formal -por ejemplo, la privatización de las cárceles-, así como nuevas formas de control social informal, relacionado con el desarrollo de la tecnología de la vigilancia.
+
+> David Lyon: Sociedad de la vigilancia.
+
+## Teorías de la desviación:
+
+### Primera teoría de la desviación: la teoría clásica.
+
+Inaugurada por Cesare Beccaria en "Dei Delitti e delle pene", 1764.
+
+La escuela clásica tiene un planteamiento fundamentado en la elección racional. La desviación y, en particular, el delito, es fruto de un cálculo. Se delinque porque hay incentivos para hacerlo, hay una expectativa racional de obtener unos beneficios que, en un momento dado, pueden ser superiores al castigo o los efectos negativos que puedan derivar de tal delito.
+
+¿Cómo se evita el delito bajo esta teoría? Con penas más altas, es decir, modificando la estructura de incentivos.
+
+> No se habla de penas extremas, sino de modularlas mejor. De hecho, la escuela clásica está en contra de las penas excesivas. Deben ajustarse al cálculo, de tal manera que el delito deje de ser provechoso para el delincuente.
+
+Sin embargo, los crímenes no obedecen siempre a un cálculo premeditado, a un cálculo de intereses.
+
+### Segunda teoría de la desviación: escuela/teoría positivista.
+
+Inaugurada por Cesare Lombroso con "l'uomo delinquiente", 1876, un siglo después del texto de Cesare Beccaria.
+
+> El delincuente es un determinado tipo humano. Hay personas que son delincuentes por naturaleza.
+
+Tales personas tienen características propias, que las distinguen del resto de personas, y que se pueden identificar.
+
+No hay elección para los delincuentes, no son responsables, en tanto que hay un determinismo en su comportamiento: puesto que son delincuentes por naturaleza, no pueden evitar delinquir.
+
+¿Cómo se resuelve el problema de la criminalidad? Se proponen soluciones desde la eugenesia. Esta teoría surge a la par de teorías científico-racistas.
+
+"El gato de las nueve colas", Dario Argento.
+
+### Tercera teoría de la desviación: la teoría funcionalista.
+
+Ejemplificada por Durkheim.
+
+Durkheim plantea que, en primer lugar, la desviación existe cuando es definida como tal. Se relaciona con definiciones de normalidad que son sociohistóricamente contingentes. El foco no está en el presunto comportamiento desviado, sino en el hecho de que hay un orden social que marca esa desviación. 
+
+> Es desviación con respecto a unas normas, que podrían ser otras.
+
+Durkheim afirma que hay una capacidad desigual para establecer las normas en una sociedad. La capacidad de definir las normas y, por tanto, la potencial desviación, está desigualmente repartida.
+
+Además, la desviación no es sólo "normal", sino que además cumple funciones sociales.
+1. Para reforzar los valores. El hecho de poder señalar a quien no cumple con las normas nos permite reafirmarnos en tales normas.
+2. Tal señalamiento contribuye a la cohesión del grupo. Expulsar a alguien hace que el resto de la sociedad "se sienta más unida".
+3. Definir más claramente los límites. A veces, la frontera que separa la normalidad de la desviación puede ser difusa. Tener modelos concretos de desviación nos permite saber exactamente "hasta dónde podemos llegar".
+4. Para impulsar el cambio social. Las personas desviadas de hoy podrían estar adelantando la normalidad del futuro. Si nos limitásemos a movernos en el campo de la normalidad, de lo establecido, quizá sostendríamos una sociedad paralizada, incapaz de producir cosas buenas. Las personas desviadas, pagando un gran precio, están impulsando tal cambio social.
+
+### Cuarta teoría de la desviación: las teorías de la tensión.
+
+Recuperamos a Robert King Merton, con "Teoría y estructuras sociales", 1949.
+
+Las normas sociales que habían regido hasta determinado momento, ya no rigen (suicidio anómico). En el caso de Merton, la anomia es una tensión entre medios socialmente aceptados y fines socialmente deseados.
+
+Cuando no es fácil, o ni siquiera posible, alcanzar los fines socialmente deseables mediante medios socialmente aceptados, surge tal situación de "anomia mertoniana". Cómo se afronte tal anomia nos define una tipología, en términos de desviación o no.
+
+- En primer lugar, las personas que suscriben los medios y fines sociales: los "conformistas". No manifiestan desviación.
+- En segundo lugar, quien suscribe los fines, pero no pueden alcanzarlos por los medios socialmente aceptados, buscándose medios alternativos. Según Merton, son "innovadoras".
+- En tercer lugar, personas que no suscriben los fines sociales por falta de motivación o perspectivas de consecución, o cualquier otra razón, pero mantienen los medios socialmente establecidos. Son, superficialmente, no desviadas pero, en términos Mertonianos, son "ritualistas". Hacen lo que se espera de ellas, a pesar de saber que no sirve realmente para nada.
+- En cuarto lugar, hay quien no mantiene ni fines ni medios. Tales personas son, según Merton, las "retraídas". 
+	- Por último lugar, hay quien no suscribe ni fines ni medios, pero tienen una propuesta alternativa, así como otros medios para la consecución de tales fines. Merton las define como "rebeldes".
+
+Crítica/reproche a Merton: ¿Cuáles son los factores sociales que hacen más o menos probable la aparición de tales tipos de desviación?
+
+Otros autores:
+- Walter Miller, con "Las subculturas delincuentes": cómo, en determinados estados sociales anómicos, se producen subculturas innovadoras, retraídas o rebeldes que, ante la imposibilidad de alcanzar los fines, establecen su propia lógica. Las subculturas delincuentes que observa Miller incluyen como rasgos culturales:
+	- El desafío constante a la autoridad.
+	- La sagacidad como valor muy deseable (la capacidad de "tomar el pelo").
+	- La dureza, especialmente en subculturas masculinas.
+	- La búsqueda de emociones, especialmente emociones fuertes.
+	- Una fijación con el destino.
+	- La búsqueda de la autonomía como fin máximo.
+
+### Quinta teoría de la desviación: las teorías del aprendizaje.
+
+Hay varias posibilidades en el seno de tales teorías, pero destacamos la de Edwin Sutherland, la "teoría de la asociación diferencial".
+
+Hay determinados contextos sociales en los que la estructura de oportunidades hace más probable que las personas establezcan vínculos con otras personas que ya han iniciado un camino de desviación. La relación social con personas desviadas, especialmente en un periodo de socialización temprana, o de segunda socialización incipiente, hace más probable continuar por tal camino. 
+
+Sutherland estudia cómo el hecho de tener cerca personas que ya pertenecen a una subcultura desviada hace más probable que la persona que se está socializando siga esos pasos. No es sólo una estructura socioeconómica, sino también de oportunidades sociales, es decir, con el capital social al que tiene acceso una determinada persona en un determinado contexto social. Deriva del entorno en el que la persona se desenvuelve, no de su voluntad de delinquir, etc.
+
+### Sexta teoría de la desviación: la teoría del etiquetaje.
+
+Edwin Lemert 
+Howard Becker, con Outsiders. Obra derivada de su carrera jazzística. Observó el consumo generalizado de ciertas sustancias, y propuso una teoría de "la carrera de desviación", no tanto por cómo son las personas, sino, a la manera del funcionalismo, por cómo una práctica queda definida por el resto de la sociedad.
+
+La desviación es, pues, una etiqueta impuesta. La clave es cómo se administra tal etiqueta. Un concepto que viene al caso, de Goffman, es el de estigma. Hay ciertas formas de desviación que, al cometerlas, aún no determinan el etiquetado de determinada persona (por ejemplo, un robo menor, no implicando el marcado permanente de quien roba como delincuente). La desviación secundaria debe confirmar, de alguna manera, la etiqueta no impuesta por la desviación primaria.
+
+> Si se delinque una vez, se admite como error o desliz. Si se repite, se etiqueta socialmente.
+
+Funciona además el etiquetaje retrospectivo. Una vez la persona o el grupo ha sido definido como desviado, se reexamina toda su historia en términos de tal etiqueta de desviación ("se veía venir", etc.).
+
+>Clave: cómo se define socialmente la desviación y cuáles son los criterios que se emplean para ejercer el etiquetado. Se trata de entender cómo las etiquetas responden a factores estructurales, no individuales. Por ejemplo, el robo no es igual de grave en función de la clase social.
+
+### Séptima teoría de la desviación: las teorías del conflicto.
+
+Profundizan en la modulación estructural de lo planteado hasta ahora. Se trata de considerar la desigualdad estructural en la capacidad de definir normas, marcar comportamientos, grupos, individuos... como desviados.
+
+Las primeras se centran en la clase social, y las más recientes tienen en cuenta etnia y género.
