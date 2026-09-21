@@ -68,3 +68,53 @@ La reflexión contrafáctica consiste en pensar cómo serían las cosas si fuera
 
 21/09/26:
 
+> La filosofía del lenguaje funciona como una metafilosofía porque afecta a discusiones no sobre el objeto de las distintas ramas, sino a cómo hablamos sobre dichos temas. Además, hace una contribución metodológica a la práctica filosófica en general (es común considerar que un elemento central de la filosofía es la argumentación). Hablamos sobre argumentos válidos y correctos, en un ejercicio de análisis conceptual, uno de los pilares metodológicos de la filosofía del lenguaje -hay quien define la actividad de la filosofía como ingeniería conceptual-. Explorar los límites de un concepto significa evaluar cómo se relacionan con otros. El análisis conceptual es uno de los tres pilares que en conjunto caracterizan a la filosofía del lenguaje como disciplina, no siendo ninguno exclusivo de la filosofía del lenguaje, y no habiéndose usado siempre desde la filosofía del lenguaje. En concreto, el análisis conceptual ha estado presente desde el principio.
+
+La segunda herramienta, a veces considerada parte del análisis, es la reflexión contrafáctica, es decir, pensar usando contrafácticos, un tipo de condicional reproducible mediante el uso de las palabras "si"... "entonces" (no necesariamente presentes esas palabras desde el principio, pero cuyo contenido es expresable mediante el uso de tales expresiones). Los contrafácticos parten de premisas que conocemos falsas en el contexto en el que se usan -no tiene sentido usar contrafácticos cuyas premisas son verdad-.
+
+> La presencia del subjuntivo caracteriza a los contrafácticos en castellano.
+
+Los exprimentos mentales, en general, son todos ellos enunciados contrafácticos.
+
+Otro tipo de reflexión contrafáctica presente desde el principio consiste en preguntarse cuáles serían nuestras intuiciones en un contexto determinado.
+
+Esta conjunción de tres pilares metdoológicos -análisis conceptual, reflexión contrafáctica y metodología empírica-. No es exclusiva de la filosofía del lenguaje ni ha estado siempre presente, pero caracteriza su estado actual.
+
+> empírico: basado en la experiencia. No basta reflexionar con palabras para determinar si algo es verdadero o falso, necesitamos mirar "en otro sitio".
+
+Sobre la metodología empírica, se observan dos variedades: experimental y no experimental.
+- Experimental: el desarrollo de pruebas en condiciones controladas, es decir, experimentos.
+- No experimental: obtención, tratamiento y procesamiento de datos tomados "al natural".
+
+La forma más habitual de hacer experimentos en filosofía del lenguaje es plantear cuestionarios que se pasan a grupos de población representativos.
+
+Este tipo de filosofía, la experimental, es filosófica al menos por tres razones:
+1. La literatura sobre la que se fundamenta este tipo de estudio contiene, de manera crucial, literatura filosófica.
+2. La formulación de hipótesis y codificación de las variables es imposible al margen de la literatura filosófica.
+3. La interpretación de los resultados, más allá de los resultados estadísticos, tiene implicaciones filosóficas.
+
+Respecto de la metodología empírica no experimental (datos "al natural"):
+
+Se hacen encuestas o se utilizan datos ya disponibles -como los del CIS, además de otros-.
+
+> Ideacionalismo (a colación del uso de tilde en "solo"): el significado depende de los estados mentales de quien habla. Lo veremos más adelante.
+
+Hay dos formas, en general, de pensar acerca del significado:
+1. Hablar del significado es preguntarse cómo debería ser el mundo si lo que digo es verdadero.
+
+Depende de plantearse la pregunta "¿cómo debería ser el mundo si lo que digo es verdadero?", es decir, determinar las condiciones de verdad de aquello que se dice.
+
+2. ¿De qué se sigue lo que digo y qué se sigue de lo que digo?
+
+Afectan de manera crucial al significado de lo que decimos. El término técnico asociado a esta segunda actitud es "potencial inferencial".
+
+Por ejemplo, en el caso del texto de Frege, aquello que se dice es verdadero o falso en función de propiedades de un conjunto de objetos, los que se designan con términos comunes intercambiables, por hacen referencia al mismo conjunto. Esto cuadra más con la primera posición. La investigación del significado se agota al preguntase cómo debería ser el mundo para que aquello que se diga sea verdadero, no captando factores como la carga connotativa de los términos.
+
+La posición del texto de Hobbes plantea que el singificado tiene que ver con el potencial inferencial: qué se sigue y de qué se sigue aquello que estoy diciendo.
+
+A veces las pregunyas acerca de la identidad (qué es esto) van de la mano acerca de las preguntas de la individuación (cómo se diferencia esto de otra cosa), pero a veces no.
+
+> Individuación del significado: ¿dicen estas dos cosas lo mismo? La mayor parte de la filosofía del lenguaje se monta desde estas preguntas. Las de identidad tienen más que ver con la metafísica del lenguaje.
+
+Para el próximo día: ¿cuál es el papel que debe jugar la ciencia o la investigación científica en la filosofía?
+
