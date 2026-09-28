@@ -66,6 +66,8 @@ Además, tiene una metodología propia, que es combinación de tres modos de pro
 
 La reflexión contrafáctica consiste en pensar cómo serían las cosas si fueran distintas a cómo son ahora mismo.
 
+# 1.2. Filosofía del lenguaje como disciplina filosófica
+
 21/09/26:
 
 > La filosofía del lenguaje funciona como una metafilosofía porque afecta a discusiones no sobre el objeto de las distintas ramas, sino a cómo hablamos sobre dichos temas. Además, hace una contribución metodológica a la práctica filosófica en general (es común considerar que un elemento central de la filosofía es la argumentación). Hablamos sobre argumentos válidos y correctos, en un ejercicio de análisis conceptual, uno de los pilares metodológicos de la filosofía del lenguaje -hay quien define la actividad de la filosofía como ingeniería conceptual-. Explorar los límites de un concepto significa evaluar cómo se relacionan con otros. El análisis conceptual es uno de los tres pilares que en conjunto caracterizan a la filosofía del lenguaje como disciplina, no siendo ninguno exclusivo de la filosofía del lenguaje, y no habiéndose usado siempre desde la filosofía del lenguaje. En concreto, el análisis conceptual ha estado presente desde el principio.
@@ -100,6 +102,7 @@ Se hacen encuestas o se utilizan datos ya disponibles -como los del CIS, además
 > Ideacionalismo (a colación del uso de tilde en "solo"): el significado depende de los estados mentales de quien habla. Lo veremos más adelante.
 
 Hay dos formas, en general, de pensar acerca del significado:
+
 1. Hablar del significado es preguntarse cómo debería ser el mundo si lo que digo es verdadero.
 
 Depende de plantearse la pregunta "¿cómo debería ser el mundo si lo que digo es verdadero?", es decir, determinar las condiciones de verdad de aquello que se dice.
@@ -112,9 +115,85 @@ Por ejemplo, en el caso del texto de Frege, aquello que se dice es verdadero o f
 
 La posición del texto de Hobbes plantea que el singificado tiene que ver con el potencial inferencial: qué se sigue y de qué se sigue aquello que estoy diciendo.
 
-A veces las pregunyas acerca de la identidad (qué es esto) van de la mano acerca de las preguntas de la individuación (cómo se diferencia esto de otra cosa), pero a veces no.
+A veces las preguntas acerca de la identidad (qué es esto) van de la mano acerca de las preguntas de la individuación (cómo se diferencia esto de otra cosa), pero a veces no.
 
 > Individuación del significado: ¿dicen estas dos cosas lo mismo? La mayor parte de la filosofía del lenguaje se monta desde estas preguntas. Las de identidad tienen más que ver con la metafísica del lenguaje.
 
 Para el próximo día: ¿cuál es el papel que debe jugar la ciencia o la investigación científica en la filosofía?
 
+28/09/26:
+# 1.3. Filosofía del lenguaje y ciencias afines
+
+Para cerrar la cuestión de la metodología, planteamos una conexión entre la filosofía del lenguaje y las ciencias que pueden resultarle afines. Aquellas con las que suele tener más relación son las ciencias cognitivas, entendidas en modo general (lingüística, psicología...)
+
+Wittgenstein: parte de lo que hace que la filosofía se equivoque sistemáticamente es creer que hace ciencia. Esto condena a la filosofía a errar su valor y qué opiniones sostiene. Según Wittgenstein, hacer filosofía es algo radicalmente distinto a hacer ciencia.
+
+La posición de Frege se acerca a un reduccionismo de la filosofía respecto de la ciencia. "Aquello que se puede decir con lenguaje filosófico puede decirse de mejor forma con el lenguaje científico".
+
+Por otra parte, hay quien plantea la independencia de la filosofía respecto de la ciencia. No ya que no se pueda reducir, sino que lo dicho desde la ciencia no puede tener impacto filosófico. Que la filosofía se hace completamente al margen de la ciencia.
+
+Por último, hay otras formas de conexiones entre la filosofía y la ciencia. La filosofía no puede decir cosas que vayan más allá de lo que la ciencia concibe como verdadero. También, que la labor histórica de la filosofía es abordar ámbitos conceptuales y formalizarlos hasta el punto de que aquello que se estaba tratando en ese ámbito conceptual puede ser tratado como una ciencia (ámbito de la naturaleza, experiencia humana... no tenemos una ciencia que se ocupe de ello y nuestros conceptos son, a menudo, confusos... buscamos un ámbito conceptual que esté lo suficientemente preparado como para que una ciencia pueda abordarlo). 
+
+> La filosofía en contacto con la ciencia en el sentido de que no puede contravenir resultados científicos.
+
+## Ideacionalismo:
+
+> Teoría del significado según la cual el significado depende de los estados mentales.
+
+Hay una caracterización general del ideacionalismo, así como una caracterización clásica (atribuible a los textos de Locke y Hobbes) y una caracterización contemporánea.
+
+En Locke podemos observar que el significado son las ideas "en la cabeza de quien habla".
+
+- Clásico: el significado está determinado por los estados mentales de quien habla.
+- Locke: las palabras significan las ideas en la cabeza de quien habla.
+- Hobbes: un poco más complejo.
+
+- Contemporáneo (Grice): cualquier nivel de significado es, en última instancia, una función de las intenciones de quien habla.
+
+	- "cualquier nivel": hay varios niveles de significado. Con respecto a cada capa, tenemos grados de compromiso diferentes.
+	- "en última instancia": a veces, para dar cuenta del significado, sólo tengo preguntar a las intenciones del hablante en concreto (¿qué has querido decir con esto?). Otras veces, hay que remonarse a una práctica convencionalizada (definición de diccionario). La RAE recoge caracterizaciones convencionalizadas, que están cristalizadas después de un montón de usos. Empezara donde empezara tal cadena de usos, se mantiene porque la intención del hablante era que tal significado fuera ese concreto. El significado atemporal de la expresión tipo depende de que la gente lo usó así y lo sigue usando así. Ese uso de la gente depende de las intenciones de quien habla.
+	- "función": noción completamente compatible y análoga a la usada en otras áreas, como las matemáticas. "Una caja negra que recibe algo y me da algo". Lo recibido es el *argumento*, y lo devuelto es el *valor*. Para cada conjunto de argumentos determinado, una función da un valor, y sólo uno. El significado toma como argumento intenciones comunicativas, y da como resultado el significado de tales intenciones.
+
+¿qué es la intención comunicativa, según el ideacionalismo? Estados mentales. Las inteciones pertenecen al catálogo de las intenciones mentales, del catálogo de aquello que usamos para hablar de estados mentales (querencias, espectativas...).
+
+> Así, el intencionalismo de Grice es un tipo de ideacionalismo, en tanto que el significado depende de estados mentales del hablante. En concreto, de las intenciones comunicativas. Actuando como función de éstas.
+
+Si adoptamos la perspectiva de cómo debería ser el mundo para que lo que digo sea verdadero, cambiar una palabra por otra no cambia el signfiicado. Bajo al otra perspectiva (qué se sigue y de qué se sigue aquello que digo), cambiar palabras hace que cambie el significado (por ejemplo, "chucho" por "perro").
+
+Crítica de Sócrates a la escritura: maltratar las plaabras es interpretar arbitrariamente. Si no se conoce suficiente acerca del texto y su producción, puede darse una interpretación errada. Este texto se considera tradicionalmente una crítica de la escritura y una defensa de la oralidad. El autor se postula como última autoridad sobre el significado de las palabras.
+
+Ta-Nehisi Coates, The Message: No atribuye la última palabra acerca del significado al autor. Plantea una perspectiva distinta a la del ideacionalismo.
+
+## Sobre significado y estados mentales
+
+Hay dos preguntas fundamentales que pueden hacerse con respecto a "qué son los estados mentales". Nos centraremos en una de ellas. Una es la pregunta acerca de la identidad y la otra acerca de la individuación.
+
+Estados mentales, en general, tiene que ver con nuestro vocabulario mental (pensar, saber, creer, esperar, tener ansiedad, estar deprimido...). Su estatus de vocabulario mental es convencional, pero no cabe duda de que forma parte del mismo. Puede que haya casos problemáticos, e incluso teorías filosóficas que digan lo contrario, pero sólo usaremos la intuición básica de que a veces utilizamos vocabulario mental y a veces no.
+
+> Primera asunción básica: hablamos acerca de lo mental. Usamos algunas palabras para hablar acerca de lo mental, son palabras peculiares. No es un uso exclusivo, pero sí característico.
+
+> A eso de lo que hablamos cuando utilizamos vocabulario mental lo llamamos estados mentales.
+
+La pregunta acerca de la identidad es acerca de qué es ese algo. "¿Qué son los estados mentales?", pensada como pregunta acerca de la identidad, refiere a "qué son, dónde están, cuánto duran..." los estados mentales. (¿Són las creencias reducibles a x conexiones cerebrales, es el dolor la activación de x mecanismos, son las ideas pertenecientes a un ámbito abstracto, trascendente...?) son preguntas acerca de la identidad. Esta no es la aproximación para comprender el ideacionalismo. 
+
+> Las preguntas acerca de la identidad tienen que ver con la ontología, una aproximación distinta a la que planteamos acerca de la filosofía del lenguaje
+
+Preguntas acerca de la individuación: ¿Cuándo de dos personas se puede razonablemente decir que piensan lo mismo o que piensan distinto? ¿Cuándo dos significados son el mismo, o son diferentes, en función de los estados mentales? Son preguntas que tienen que ver con la individuación
+
+> Identidad: qué es. Individuación: ¿cuándo son lo mismo o son diferentes?
+
+Condiciones de identidad: qué hace a algo esencial como objeto.
+Condiciones de individuación: qué hace a un objeto igual o distinto a otro objeto.
+
+> Nos centraremos en las preguntas acerca de la individuación, relacionadas con cuestiones de atribución de estados mentales.
+
+Para el ideacionalismo y, en general, para la filosofía del lenguaje que veremos en esta clase, plantearemos cuestiones sobre la individuación. No nos preguntaremos qué es el significado o qué son las proposiciones, desde un punto de vista ontológico, sino cuándo dos proposiciones significan lo mismo, o cuándo dos significados son idénticos.
+
+El pensar filosófico acerca de los estados mentales se plantea tradicionalmente en dos variedades distintas: internismo y externismo. Lo plantearemos como dos formas de responder acerca de la individuación.
+
+- internismo: todo lo que necesito decir para individuar un estado mental está en la cabeza de la persona a la que se le atribuye dicho estado mental.
+- externismo: todo lo que hay que tener en cuenta para determinar un estado mental no está necesariamente en la cabeza de la persona a la que se le atribuye dicho estado mental.
+
+Distinciones auxiliares:
+
+- Saber cosas acerca de mi vida mental es distinto a saber cosas acerca del mundo. Por ejemplo, puedo saber, por propiocepción, si me duele algo o no, y no puedo saber lo mismo respecto del estado de un objeto ajeno a mí por los mismos mecanismos. Asimismo, saber lo que creo es distinto que saber algo del mundo. Puedo equivocar una propiedad del mundo, pero no puedo equivocarme acerca de lo que creo. Esto es lo que sostienen posturas que mantienen un acceso privilegiado a mis propios estados mentales. Burge lo plantea como "súper poderes de segundo orden". Las oraciones del tipo "sé que creo..." siempre son verdaderas. Una variedad del acceso privilegiado es la "inmunidad al error por identificación equivocada", tema famoso en la filosofía del lenguaje de los años 70. Siguiendo a descartes con la duda metódica, dudando de todo aquello que concierne nuestra vida mental, queda un ámbito del que no podemos dudar. No podemos estar equivocados en ningún caso acerca de quién es el sujeto de la experiencia.
