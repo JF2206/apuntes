@@ -200,3 +200,34 @@ Distinciones auxiliares:
 
 1/10/26:
 
+- En la historia de la filosofía surge la necesidad epistemológica recurrende de una actitud fundamentista. Presente en autores como Platón, Descartes, Russell, Carnap... Fundamentar el conocimiento en un principio del que no pueda dudar.
+
+Las propiedades cualitativas básicas como las impresiones de color son cosas de las que no puedo dudar. Puedo dudar de que tengo un objeto delante de mí, pero no de que lo percibo como tal.
+
+Nos quedamos planteando cuestiones acerca de internismo/externismo. Además, nos planteamos una cuestión que va a ser especialmente relevante para discutir la cuestión del significado, el principio del acceso privilegiado. ¿Dónde está ese conocimiento con respecto al cual no cabe dudar?
+
+Otra variedad de este tipo de acceso privlegiado la representan pensadores como Russell: tenemos acceso privilegiado a nuestras impresiones fenoménicas básicas: no puedo estar equivocado ante una impresión fenoménica básica del color de un objeto.
+
+Ocurre, sin embargo, que estas dos formas de inmunidad de error han sido razonablemente cuestionadas. No está claro que tengamos un acceso transparente a nuestros estados mentales, ni si quiera los de segundo orden. Ejemplo del oftalmólogo: no si algo es rojo o verde, sino si lo ves rojo o verde. Nuestro vocabulario para lo mental es complejo, quizá equívoco.
+
+¿Dónde está el reducto de aquello que no cabe cuestionarse, de lo que no cabe error? Incluso la propiocepción puede inducir a error (miembros fantasma). Algunos, como Shoemaker, afirman que, sea lo que sea que estoy experimentando, aquello sobre lo cual no puedo equivocarme es quién es el sujeto de la experiencia. 
+
+> Primera idea: acceso privilegiado es ortogonal al binomio internismo/externismo. Se forma un espectro bidimencional donde caben todas las combinaciones entre internismo/externismo y acceso privilegiado/no acceso privilegiado.
+
+Segunda idea: ¿cómo se aplica esto al significado? Son cuestiones que nos plantearemos cuando nos planteemos **quién decide lo que significan las palabras**. Tanto si adoptamos una posición cercana a la de Platón en el texto que leímos en la sesión anterior, como si adoptamos una posición que admite cierta independencia del significado respecto del emisor.
+
+Analizaremos además consecuencias políticas que se siguen de adoptar una posición u otra, y las veremos a medida que avanzamos en el tema. Iremos aplicando estas categorías sistemáticamente.
+
+A una posición que se aleja del ideacionalismo, que se aleja del internismo, se le puede llamar contemporáneamente interaccionismo.
+
+La aparición de artículos científicos sobre el cambio climático junto a artículos fabricados que los niegan cambia el significado de ambos artículos. Significan, para la población, una falta de consenso que en realidad no se da.
+
+Formas de cambiar el significado de un discurso potencialmente discriminatorio, a través del contradiscurso:
+- Negación: negar directamente el discurso. Problema: da plataforma al discurso negado.
+- Bloqueo (Langton): negar las presuposiciones que hacen que lo que se profiere tenga sentido. Problema: sigue dando plataforma al discurso negado.
+- Doblar/bending (Caponetto, Cepollaro): resignificar el discurso "dándole la vuelta". Posible problema:cognitivamente muy demandante. Visión dinámica de cómo funciona el significado. No sólo las intenciones no son determinantes, sino que en última instancia, después del movimiento, no son relevantes en absoluto.
+- Silencio elocuente (Tanesini): ante tales discursos, no contestar.
+
+> Todos estos casos de contradiscurso parten de la idea de que la percepción de daño juega un papel significativo en la determinación del significado. En la medida en que sean eficaces, van a estar modificando el significado. Su empleo es desde una actitud claramente no ideacionalista.
+
+Hay un presupuesto filosófico que podemos cuestionar y que hace que nuestras intuiciones compatibles con la supuesta intención no discriminatoria del emisor, desde el ideacionalismo: el acceso privilegiado. Podemos cuestionar que alguien tenga acceso privlegiado a sus estados mentales. "Tu intención era discriminatoria, aunque no lo supieras".
