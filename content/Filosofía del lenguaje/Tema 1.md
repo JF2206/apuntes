@@ -197,3 +197,6 @@ El pensar filosófico acerca de los estados mentales se plantea tradicionalmente
 Distinciones auxiliares:
 
 - Saber cosas acerca de mi vida mental es distinto a saber cosas acerca del mundo. Por ejemplo, puedo saber, por propiocepción, si me duele algo o no, y no puedo saber lo mismo respecto del estado de un objeto ajeno a mí por los mismos mecanismos. Asimismo, saber lo que creo es distinto que saber algo del mundo. Puedo equivocar una propiedad del mundo, pero no puedo equivocarme acerca de lo que creo. Esto es lo que sostienen posturas que mantienen un acceso privilegiado a mis propios estados mentales. Burge lo plantea como "súper poderes de segundo orden". Las oraciones del tipo "sé que creo..." siempre son verdaderas. Una variedad del acceso privilegiado es la "inmunidad al error por identificación equivocada", tema famoso en la filosofía del lenguaje de los años 70. Siguiendo a descartes con la duda metódica, dudando de todo aquello que concierne nuestra vida mental, queda un ámbito del que no podemos dudar. No podemos estar equivocados en ningún caso acerca de quién es el sujeto de la experiencia.
+
+1/10/26:
+

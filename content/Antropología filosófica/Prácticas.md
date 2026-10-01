@@ -88,4 +88,3 @@ Otro elemento importante, expuesto a las críticas de Heidegger, es que la pregu
 > Crítica 1: utilizar fundamentos científicos para la justificar la ciencia. Circularidad.
 
 > Crítica 2: con este planteamiento, se reduce la descripción del mundo a un elemento del mundo. No se está haciendo una ontología fundamental, sino que se está describiendo una región del ser. Esta ontología sólo sienta la base de este tipo concreto de ser. Desde Husserl, se podría decir que se está negando el carácter trascendental del sujeto.
-
