@@ -231,3 +231,29 @@ Formas de cambiar el significado de un discurso potencialmente discriminatorio, 
 > Todos estos casos de contradiscurso parten de la idea de que la percepción de daño juega un papel significativo en la determinación del significado. En la medida en que sean eficaces, van a estar modificando el significado. Su empleo es desde una actitud claramente no ideacionalista.
 
 Hay un presupuesto filosófico que podemos cuestionar y que hace que nuestras intuiciones compatibles con la supuesta intención no discriminatoria del emisor, desde el ideacionalismo: el acceso privilegiado. Podemos cuestionar que alguien tenga acceso privlegiado a sus estados mentales. "Tu intención era discriminatoria, aunque no lo supieras".
+
+5/10/26:
+
+Sobre acceso privilegiado, del otro día:
+
+> Inmunidad al error por identificación equivocada: con respecto al sujeto de la experiencia, no puedo cometer errores por identificación equivocada.
+
+Originalismo en la intepretación de la constitución estadounidense: intención vs significado.
+- El originalismo constituye un tipo de ideacionalismo.
+
+Con esto acaba la discusión acerca de ideacionalismo que está en el Tema 1.
+
+El tema 1 tenía tres aspectos principales
+1. Filosofía del lenguaje: introducción.
+2. Ideacionalismo
+3. Dos cuestiones de vocabulario básico de la disciplina. Lo veremos ahora.
+
+En cuanto acabemos con esta última cuestión, comenzaremos con el comentario de texto de Locke y Hobbes. En clase repasaremos el cuestionario y discutiremos el texto.
+
+# 1.3. Un par de nociones básicas I
+
+## 1.3.1. Distinción entre "uso" y "mención"
+
+Es la distinción entre estar en el nivel del metalenguaje o estar usando el lenguaje objeto. Esta distinción tiene muchas consecuencias en filosofía. Por ejemplo, Quine decía que "la lógica modal había nacido en pecado", el cual consistía en la confusión entre "uso" y "mención".
+
+Aunque parece ser una distinción fácilmente detectable, y que las comillas nos sirven para resolver cualquier tipo de ambigüedad al respecto, no es tan así. Las comillas no siempre se usan para expresar literalidad. 
