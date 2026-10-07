@@ -1,4 +1,3 @@
 - [ ] John Stuart Mill: El utilitarismo.
 - [ ] Bentham: Introducción a los principios de la moral y la legislación.
 - [ ] Hume: Investigación sobre los principios de la moral.
-- [ ] 
