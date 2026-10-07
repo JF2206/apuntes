@@ -1,3 +1,9 @@
+---
+aliases:
+  - Scheler
+  - Plessner
+  - Gehlen
+---
 30/09/26:
 
 Se dedicarán clases a distintos textos y autores.
