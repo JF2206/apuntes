@@ -256,4 +256,78 @@ En cuanto acabemos con esta última cuestión, comenzaremos con el comentario de
 
 Es la distinción entre estar en el nivel del metalenguaje o estar usando el lenguaje objeto. Esta distinción tiene muchas consecuencias en filosofía. Por ejemplo, Quine decía que "la lógica modal había nacido en pecado", el cual consistía en la confusión entre "uso" y "mención".
 
-Aunque parece ser una distinción fácilmente detectable, y que las comillas nos sirven para resolver cualquier tipo de ambigüedad al respecto, no es tan así. Las comillas no siempre se usan para expresar literalidad. 
+Aunque parece ser una distinción fácilmente detectable, y que las comillas nos sirven para resolver cualquier tipo de ambigüedad al respecto, no es tan así. Las comillas no siempre se usan para expresar literalidad.
+
+8/10/26:
+
+Usamos el lenguaje para decir algo acerca de cómo son las cosas. Usamos la mención cuando hablamos acerca del lenguaje. Mencionamos cuando hablamos acerca del lenguaje. Aquí tenemos la distinción entre lenguaje objeto y metalenguaje. Son categorías artificiales, hechas para el ámbito teórico. En el lenguaje natural, usamos comillas para marcar la mención. La distinción entre uso y mención tiene un papel filosófico propio, que se consideró en el origen de ciertos errores que había en la filosofía, sobre todo en la del cambio del S.XIX al S.XX. En concreto, Quine pensó que algunos de los errores fundamentales del desarrollo de la lógico estaban derivados de "haber nacido en pecado", de confundir el uso con la mención.
+
+> A la filosofía del lenguaje le interesa "qué hacemos en el lenguaje natural cuando mencionamos".
+
+Las comillas, por ejemplo, nos permiten ejercer de testigo sin ser, a su vez, acusado de injuria (declarando lo que alguien dijo, diciéndolo literalmente, sin que se considere efectivo en el uso).
+
+Quine fue uno de los primeros filósofos que se preocupó por el uso de las comillas, para la tradición contemporánea. El material entrecomillado funciona como un "bloque lógico" "sintácticamente inerte y semánticamente inerte".
+
+Sin embargo, muchas veces se usan las comillas tanto para usar como para mencionar, tanto para apuntar algo del mundo como para hablar del lenguaje al mismo tiempo. Sobre esto, Quine dijo que las menciones tienen un determinado rasgo anómalo. Es obvio que necesitamos distinguir entre el ámbito de las palabras y el ámbito de las cosas, aunque en el lenguaje natural se mezclan estas categorías. Esta importancia de distinguir entre hablar de las palabras y hablar del mundo cobrará sentido cuando veamos la posición de Frege. Según él, cuando hablamos del lenguaje, estamos en "estilo directo", mientras que cuando hablamos del pensamiento -propio o ajeno- estamos hablando en "estilo indirecto".
+
+> Muy importante: hay veces que no hablamos ni de las palabras ni del pensamiento de alguien, sino de las cosas. Por tanto, la imagen correcta no es aquella que divide el ámbito del lenguaje de forma completa entre ambos estilos, sino que son subconjuntos propios del lenguaje que no forman una partición del mismo.
+
+Sobre "sintácticamente inerte" y "semánticamente inerte" en Quine:
+
+- Sintácticamente inerte: juega la función de un sustantivo, y sólo esa.
+	- "Boston" tiene 6 letras: Oración verdadera, donde "Boston" juega el papel de un sustantivo.
+	- "Cazar" tiene 6 letras: Oración falsa, donde "Cazar" hace la función de sujeto.
+	- "A Pedro le gusta cazar" tiene 18 letras: Oración verdadera, donde "A Pedro le gusta cazar" cumple la función de un sujeto (sintagma nominal).
+- Semánticamente inerte: la verdad de lo que se dice no depende de la entidad en el mundo de lo que se está diciendo. Depende del lenguaje.
+	- En el primer ejemplo, el enunciado es verdadero porque "Boston" tiene seis letras, no porque la ciudad Boston tenga seis letras.
+
+> Problema inmediato: cuando se mezclan uso y mención en el material entrecomillado, aquello que se entrecomilla no es semánticamente inerte. El significado de lo proferido depende tanto de la palabra como de aquello a lo que apunta.
+
+Quine reconoció la existencia de estos ejemplos.
+
+Además, las comillas no siempre se usan con la función de un sustantivo (es decir, no siempre marcan material sintácticamente inerte).
+
+Hay dos modos básicos de mencionar las palabras de otro:
+
+En un primer uso, no hay necesidad de distanciarse de lo que se entrecomilla (quoting).
+En el segundo uso, el autor pretende desligarse de las implicaciones de usar la palabra que se entrecomilla (scare quoting).
+
+Usar las comillas para hacer una mención pura vs usarlas para además distanciarse del uso que hace la persona que, en principio, emitió el material entrecomillado.
+
+Habitualmente, se usan grafías distintas para separar ambos usos de las comillas. En los medios, esto aparece recogido en los libros de estilo. (comillas simples vs comillas dobles). En castellano hay multitud de formas de escribir las comillas. Hay gente que cree que cuando se entrecomilla un fragmento, si se va a entrecomillar en el interior, se usan simples en el interior y dobles en el exterior. Otras personas usan comillas francesas.
+
+Regla para esta asignatura (autoasignada): 
+- Mención simple, "" (comillas dobles). 
+- "Scare quoting": '' (comillas simples).
+
+# 1.3.2. Distinción entre "tipo" y "ejemplar"
+
+- Dos eventos musicales pueden ser dos ejemplares distintos del mismo tipo. El tipo es "la sinfonía de Beethoven". No la partitura, no lo que había en la cabeza de Beethoven, sino que es una entidad abstracta. Dos interpretaciones son dos instancias de un tipo.
+
+- Los tipos son entidades abstractas. Mientras que los ejemplares son entidades concretas. Los tipos no tienen propiedades que podamos medir u observar.
+- La distinción más común es entre tipos platónicos y tipos aristotélicos. Los tipos platónicos se postulan sin origen, mientras que los aristotélicos siempre tienen origen en un ejemplar.
+
+Los tipos no entran en relaciones causales. Son los ejemplares los que entran en tales relaciones.
+
+Esta discusión acerca de los tipos aparece en la discusión acerca del estatuto de significado de expresiones predicativas, del tipo "alto", "bajo". Hay quien argumenta que apuntan a propiedades que han existido siempre (metafísica de las propiedades, con impacto en la filosofía del lenguaje).
+
+Ejemplares son entidades concretas que entran en relaciones causales y se pueden describir ateniéndose a propiedades que se dan en el espacio y el tiempo.
+
+La distinción entre tipos y ejemplares se utilizan en filosofía del arte -y, en particular, en la filosofía de la música- para discutir acerca de la repitibilidad.
+
+Goodman: "Hay obras de arte que son tales que cualquier repetición es una copia".
+
+El papel que va a jugar esta distinción entre "tipo" y "ejemplar" para la asignatura:
+
+- Una proferencia es el acto de decir algo. Sea verbal o escrita. Cada proferencia es distinta, aunque albergue el mismo contenido.
+
+Para la tarea, hay que escribir una cara de un A4, respondiendo a dos o tres preguntas. Se hacen por grupos de tres o cuatro personas.
+Preguntas para las tarea:
+1. ¿Cabe hablar de proferencia "tipo" y proferencia "ejemplar"?
+
+# Prácticas del Tema 1.
+
+## Hobbes. El Leviatán. Capítulo 4: Del lenguaje.
+
+1.
+Para recordar el conocimiento pasado y para unir a la gente.
