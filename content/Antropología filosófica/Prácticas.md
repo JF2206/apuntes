@@ -94,3 +94,80 @@ Otro elemento importante, expuesto a las críticas de Heidegger, es que la pregu
 > Crítica 1: utilizar fundamentos científicos para la justificar la ciencia. Circularidad.
 
 > Crítica 2: con este planteamiento, se reduce la descripción del mundo a un elemento del mundo. No se está haciendo una ontología fundamental, sino que se está describiendo una región del ser. Esta ontología sólo sienta la base de este tipo concreto de ser. Desde Husserl, se podría decir que se está negando el carácter trascendental del sujeto.
+
+
+21/10/26:
+
+Scheler plantea en el primer capítulo que el chimpancé puede detectar, por sus necesidades e impulsos, detectar un objeto y ordenar el entorno respecto a poder conseguir ese objeto. Puede, incluso, elegir en el entorno qué le permitirá conseguir ese objeto. No es sólo una cuestión impulsiva. Tiene distribución espacial, capacidad intelectual. No es eso lo que caracteriza al hombre (la inteligencia), puesto que hay animales que ya lo manifiestan. El animal ya establece relaciones de causa y efecto.
+
+Donde Scheler es más explícito, donde habla propiamente sobre la ideación, es en el capítulo III. Sin embargo, nos centramos en el texto estudiado (introducción y capítulo II).
+
+En el capítulo II:
+
+¿Existe acaso una diferencia ontológica esencial entre ellos? No es algo psíquico, no la encontraremos haciendo psicología. De hecho, haciendo psicología, según Scheler, encontraríamos que no hay ninguna diferencia entre humano y animal, al igual que desde la biología. Se descubrirá como "cúspide de la evolución animal", pero no ontológicamente.
+
+Páginas 126-127:
+Hay algo en el hombre, un principio, que se opone a todas la vida, incluída la suya. Adelantamos que será la capacidad de realizar una reducción fenomenológica, la epojé, no dejarse llevar por los impulsos y poner entre paréntesis, con independencia de la existencia de aquello que se percibe.
+
+Esto que se opone a la vida consiste en "los actos de razón", el "pensar ideas", incluyendo "intuir esencias y fenómenos", "actos emocionales y volitivos". Tematizar la emoción. A todo esto le llama "espíritu". Además del espíritu que hace estas cosas, tenemos que hay un "centro" en el que el espíritu aparece. Importante señalar que el centro NO es el espíritu. Es un "centro de los actos" en el que el espíritu se presenta en la esfera del "ser finito". La persona, "centro finito de los actos", no es el espíritu. Es aquel centro que lleva acabo los actos en los que el espíritu aparece. Precisamente, ser capaz de llevar a cabo estos actos es la diferencia ontológica que busca Scheler. ¿Por qué es una diferencia ontológica y no una diferencia óntica, psicológica?
+
+Antes de seguir el texto, hacemos un salto hacia el final (página 138): la tercera caracterización del espíritu (luego hay dos caracterizaciones anteriores, no explícitas), y la más importante, es que no es objetivable. Es puro acto, se da en el actuar, y sólo recibe su ser de la consecución libre de sus actos.
+
+¿Cuáles son las otras dos caracterizaciones del espíritu?:
+Volvemos a la página 127:
+"la determinación fundamental de un ser espiritual..." (la más importante es la tercera, pero la primera es fundamental) "sería su desligamiento espiritual respecto a lo orgánico, su libertad, su desasimiento del hechizo,de la presión, de la dependencia de lo orgánico"... la libertad no es aquí elegir, puesto que un animal ya elige.
+
+Para cerrar las primeras cuestiones: la caracterización psicológica-biológica del hombre es la **caracterización óntica**, y éste no presenta diferencia sustancial en tal ámbito.
+
+> Primera determinación (fundamental): desligarse del impulso, es decir, estar abierto al mundo.
+
+- Tal desligamiento se manifiesta en la inhibición.
+- Inhibir es alzarse o ponerse por encima de los centros de reacción y de resistencia.
+
+Sobre "el modo de ser": en fenomenología, es el modo en el que se presenta algo, y no Scheler no está hablando de eso. El Sosein es "el darse tal cual es", "el cómo del darse". El ser humano puede pensar en "el ser-así" de la cosa, es decir, objetivar. En el objetivar no se da simplemente la presencia de un objeto en la acción, sino una relación que se presta a la teorización del objeto. El ser humano atiene a la cosa por lo que la cosa sea o, por lo menos, pretender tematizar la cosa.
+
+Página 128:
+Asimismo, puede determinar su conducta no sólo desde la presentaciń de la cosa, sino desde lo que la cosa sea. Scheler plantea este fenómeno como una inversión. Tal caracterización no se limita al cambio del entorno, pues reconoce que los animales también son capaces de cambiar su entorno.
+
+El animal tiene un entorno cerrado, introduce modificaciones en el entorno, y esas modificaciones modifican, a su vez, al animal.
+
+$$
+animal \leftrightarrow entorno
+$$
+
+En cambio, "el comportamiento humano está motivado por el modo puro de ser (Sosein) de un complejo de representaciones o intuiciones elevado a objeto, independientemente del estado fisológico o psicológico del organismo humano". Atiende a qué es lo que se presenta, y no al mero presentarse de lo que se presenta. Además, el ser humano puede suspender el impulso, ponerlo entre paréntesis. Se inhibe el impulso y se redirige hacia las cosas-en-si. No sólo modifica el medio para redundar un cambio en él, sino que modifica el medio o dirige su impulso hacia cosas que sólo van dirigidas a cambiar el mundo. El humano modifica, y la modificación se abre hacia modificaciones posteriores, incluso puede modificar sin que tal modificación redunde en él ni en sus cercanías.
+
+$$
+humano \leftrightarrow mundo \Rightarrow mundo \Rightarrow mundo \Rightarrow ...
+$$
+En términos Heideggerianos (salvando las distancias) puedo darme objetivos de acción, "por mor de" que no dependan de impulsos.
+
+> El humano se modifica al modificar el medio, pero la acción no se queda en esa retroactividad.
+
+Página 130:
+
+Hay un segundo nivel del acto reflexivo, que sí es propio del ser humano. Este acto se denominará "recogimiento". La persona es consicente de sí como centro de actos espirituales. No como cuerpo o sujeto viviente, sino como aquello que está en el centro de lo que se presenta. El ser humano es el centro de todos los actos (representación, mención, ideación...). El saber esto es la autoconciencia de los actos espirituales. No es la autoconciencia de reconocer el cuerpo propio, eso sería una autoconciencia óntica, sino de descubrirse operando como centro.
+
+Tales actos, que se fundan en una percepción pero adquieren su realidad independientemente de la percepción, son los actos fundados. Es precisamente en este sentido en que se elevan de los objetos incluyéndose a sí mismos como objetos (el ser humano puede tomar como objeto su cuerpo, sus emociones, cualquier manifestación que se de...). Lo que no podrá pensar nunca, lo que no es objetivable, es el centro mismo del acto, puesto que se presenta ahora como objeto (Kant y la distinción entre sujeto trascendental y sujeto empírico).
+
+> Como segunda determinación, tenemos la autoconciencia, al pensarse como centro de los actos espirituales.
+
+Página 137:
+
+el hecho de reconocer sustancia deriva de la percepción del Sosein. Reconocer espacio deriva del hecho de que el ser humano puede tener motivaciones de su acción independientemente del impulso, de tal forma que ordena un espacio vacío, no lleno de las cosas que condicionan su actuación.
+
+Página 138:
+
+Scheler considera que no hay simpatía en el compadecerse (Schopenhauer), debe haber implicación de acción. Es ahí donde radica la cooperación. No puedo objetivar ni mi centro de actos, ni el de nadie. El centro no se presenta. Puedo intuirlo, implicarme en nuestro obrar y hacerme una idea, incluso -como plantearía Heidegger-, pero no puedo acceder al Dasein del otro si no es de modo indirecto, a través de objetos. No puedo tener una objetivación del acto espiritual. Sin embargo, podemos compartirlo mediante cooperación, en lo que Scheler llama **espíritu suprasingular**. Se colabora para obtener una descripción ontológica de una cosa. Scheler menciona tres niveles de conocimiento. "Orden de ideas que se realiza en el mundo independientemente de la conciencia humana", es decir, no es una cuestión psicológica.
+
+Podemos tener el orden ontológico del conocimiento, pero podemos tener un orden del valorar, así como un orden teleológico (conocer, valorar y juzgar éticamente).
+
+El ser así de la mesa ya es la idea de la mesa, al igual que puedo hacerme ideas del cuadrado o del bien. La idea de que un acto es bueno también es una idea -construcción de ideas sobre otras en grados de abstracción. Estas ideas no existen antes, y por eso habrá una dependencia de lo que sea el mundo con anterioridad, de lo que sea el animal humano -el ser humano es dos cosas, cúspide de la evolución y, por otro lado, este nivel de acceso a este orden ontológico del ser-así de las cosas-. No está antes, en la experiencia de lo empírico. No está después, no es que se tenga algo que después se constituya en idea. No está dentro (de las cosas), sino que "es con ellas". Las ideas se están dando con las cosas que se dan. El espíritu es con las cosas materiales, no es un idealismo platónico de esencias eternas que se manifiestan o se unen con la materia. Podríamos decir que estas ideas, este espíritu, que tiene una lógica propia y que es independiente de mis actos y, sin embargo, nace en las cosas, no es antes ni después (deriva claramente fenomenológica). "Es como si el infinito, la eternidad pudiera nacer". Podemos también mencionar el bien o la justicia. No tenemos aún la definición correcta de estas cuestiones, pero podemos ir aproximándonos a ella -planteamiento un poco optimista de la fenomenología.
+
+Entramos ahora en el tercer capítulo, para perfeccionar la explicación de lo leído.
+
+Se suspende la energía, el impulso de, por ejemplo, ir a comerse una naranja y descubrir que se encuentra encima de algo. Se inhibe el impulso y se dirige, deshinibe, hacia otro lugar: el espacio del pensar la esencia o el ser-así de la cosa que se me está dando. Scheler dirá que precisamente "el espíritu es lo más impotente". El espíritu, por sí mismo, no puede nada. Scheler no es un idealista. El espíritu, por sí mismo, no se desarrolla. Para desarrollarse, necesita desviar los impulsos de lo corporal, de lo vivo, hacia el espacio del espíritu. Si no, no se desarrolla. De aquí que Scheler mantiene la dimensión óntica del ser humano, no la subsume en lo ontológico.
+
+Parece que Scheler nos dice que si necesita inhibir el impulso para deshinibirlo hacia otro lugar (el ser humano es capaz de darse imágenes de deseo, con independencia de lo que se está presentando), para que el ser humano sea capaz de inhibir debe haber algo así como el "hacia dónde dirigir", en tanto que los impulsos no se eliminan, no se niegan, y el espíritu tampoco puede crear impulsos. Si entonces tengo que poder dirigir el impulso hacia esta otra cosa, esa otra cosa, ¿no debería estar ya con anterioridad?
+
+Resumiendo: lo esencial en el ser humano es capaz de acceder a este nivel, ontológico, que se opone a lo vivo no porque el ser humano tienda al suicidio, sino porque puede suspender el impulso de mantenerse vivo y dirigirlo hacia otros lugares, como el pensar esencias.
