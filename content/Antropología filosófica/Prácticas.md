@@ -171,3 +171,93 @@ Se suspende la energía, el impulso de, por ejemplo, ir a comerse una naranja y 
 Parece que Scheler nos dice que si necesita inhibir el impulso para deshinibirlo hacia otro lugar (el ser humano es capaz de darse imágenes de deseo, con independencia de lo que se está presentando), para que el ser humano sea capaz de inhibir debe haber algo así como el "hacia dónde dirigir", en tanto que los impulsos no se eliminan, no se niegan, y el espíritu tampoco puede crear impulsos. Si entonces tengo que poder dirigir el impulso hacia esta otra cosa, esa otra cosa, ¿no debería estar ya con anterioridad?
 
 Resumiendo: lo esencial en el ser humano es capaz de acceder a este nivel, ontológico, que se opone a lo vivo no porque el ser humano tienda al suicidio, sino porque puede suspender el impulso de mantenerse vivo y dirigirlo hacia otros lugares, como el pensar esencias.
+
+18/11/26:
+# Texto de Plessner.
+
+En Plessner, al igual que en Scheler, tenemos un claro deje fenomenológico. Además, hace otras cosas. La fenomenología no hace la biologización, sino lo opuesto. Las ciencias no nos sirven para dar cuenta de aquello que encontramos en la experiencia, en las vivencias del mundo. En todo caso, es al revés: me encuentro con cosas en el mundo y tales cosas me permiten diferenciaciones y posteriores idealizaciones.
+
+Si preguntamos a un físico, nos dirá que el color consiste en ciertas longitudes de onda. Para que el científico pueda describir el color como ondas, necesita una experiencia previa del color, fenomenológica.
+
+Plessner, de hecho, lo que intenta hacer, al menos en un primer momento, es que, a partir de estas asunciones, podamos dar cuenta del fenómeno de la cotidianeidad respecto de dos tipos de fenómenos que se nos presentan, radicalmente distintos. Entre la cierta predictibilidad y continuidad respecto de ciertas experiencias, frente a la aparente inpredictibilidad de lo vivo. Cuando e lbiólogo hace biología, ¿qué está teniendo en cuenta como vivo? Cuando el antropólogo hace antropología, ¿qué está teniendo en cuenta como ser humano?
+
+Tanto Plessner como Scheler forman parte de lo que se llama la Escuela de Gotinga. Tal escuela es el primer gran círculo de fenomenología, que parte de las Investigaciones lógicas de Husserl, no de Ideas I. Está la suspensión del mundo, pero no afirmada de un modo radical. Para explorar efectivamente el sentido (de color, de organismo...) hay que hacer suspensión, pero eso no quiere decir que realmente no exista aquello, no se pone en suspensión la realidad de aquello de lo que se está hablando (es fenomenología realista). Se toma la fenomenología metodológicamente, no ontológicamente. Estos autores toman principalmente de la propuesta de Husserl -y lo que tuvo más impacto en su época- es lo que se presenta en Investigaciones lógicas, y especialmente en los Prolegómenos a la lógica pura, la introducción de las Investigaciones lógicas.
+
+> La verdad como correlación no está entre lo que afirmo del mundo y lo que realmente es el mundo, sino entre lo que afirmo y lo que quiero afirmar.
+
+Gracias a poner en suspenso, podemos obtener definiciones a priori. Definiciones que toda cosa viva deberá cumplir, que toda cosa interte deberá cumplir. Como el problema no está entre lo que afirmo y la ralidad, sino entre lo que afirmo y lo que quiero afirmar, puedo idear límites acerca de hasta dónde aquello que quiero afirmar está definido. Si encuentro con algo que no responde de ningún modo al medio, mas que por las propias inercias físicas, difícilmente podré afirmar que está vivo. Se somete al límite las imaginaciones de aquello que quiero definir.
+
+En Gotinga se toma el problema de ir a las cosas mismas y no se van al acto de reconocer lo vivo, sino a lo vivo mismo. Vamos a la percepción: veo la mesa, y, de entrada, entiendo que es un presentarse algo con cambio continuo. Sus puntos mantienen cierta continuidad de cambio respecto a ellos mismos, a medida que observo la mesa desde distintos ángulos. En cambio, imaginando la mesa, puedo verla desde frente, desde la esquina, de forma inmediata, sin continuidad. Por tanto, el primero es un acto de percepción y el otro un acto de imaginación. Sin embargo, podemos imaginar la modificación continua. Pero el cambio continuo en la percepción va atado a la percepción. En la imaginación, en cambio, tal cambio imaginado continuamente no va acompañado de sensación. No es que se presente de forma más intensa o vivamente en la percepción que en la imaginación, sino que es una cuestión de ley sobre cómo se presenta algo (como percepción o como imaginación).
+
+Hasta ahora, se quiere ilustrar cómo tomando una vivencia concreta, se somete imaginativamente la percepción a límites que permiten delimitar características que debe cumplir siempre la cosa, se define desde la experiencia, con contenidos concretos. Esto es lo que pretende Plessner. Definamos lo orgánico. ¿Hasta qué punto puedo afirmar que algo es orgánico o no? ¿Hasta qué punto puedo afirmar que esto es humano o no? Se somete al límite la definición que hace. Si dejara de pasar esto, no sería esto, sería esto otro.
+
+Comenzamos con el primer párrafo: si el individuo animal se relacionara con su centro posicional, parecería que sí estaría relacionado con su propio ser, que no le estaría oculto. Sin embargo, su existencia física está referida al aquí-ahora absoluto.
+- Si se relacionara con su centro posicional, su ser no se le oculta. Esto no quiere decir que no tenga centro posicional; no se relaciona con el.
+- Con el absoluto aquí-ahora se relacionan su medio y su cuerpo vivido (lieb).
+
+Este no relacionarse como centro posicional es lo mismo que no destacar (estar oculto) y no ser objetivo para dicho ser. Se relaciona con él como cuerpo. Se diferencia relacionarse como cuerpo de relacionarse como centro posicional.
+
+> De hecho, el animal domina su propio cuerpo. Forma un sistema reflexivo, pero **no se vivencia a sí mismo.
+
+Vivenciar, término claramente fenomenológico. 
+
+Este no vivenciarse, no ser objetivo, no relacionarse, lo equipara a que aún no ha alcanzado la plenitud reflexiva. Si aún no, es que cabe la posibilidad de que si. Donde se de tal plenitud, ya no hablaremos de animal, sino del otro ser (que será el ser humano).
+
+¿Qué quiere decir que una cosa viviente tenga una plenitud reflexiva? De entrada, que no se relaciona con su centro meramente como un cuerpo.
+
+Para tal plenitud, su centro posicional debe mantener una distancia respecto a si. Sin embargo, no puede ser que haya algo así como dos centros. No es un desdoblarse lo que sucede aquí. 
+
+Cuando se suspende la actitud natural con las cosas, no se instaura un nuevo acto, sino que se cambia de actitud respecto del acto de percepción. No se instaura una conciencia que es consciente de la conciencia previa en su acto de percibir, sino que es el propio acto el que cambia de clave, y es la misma conciencia la que cambia su atención respecto del mismo acto (en relación con el ejemplo del ojo en Plessner).
+
+> Este puro aquí-ahora no se relativiza, no se pierde su absoluto, en la reflexividad plena. Lo que realmente ocurre es que, de algún modo, se le presenta tal absoluto aquí-ahora. (Se vivencia a sí mismo). Se atiende al "percibir algo".
+
+Tal desdoblamiento se encuentra en el idealismo de Hegel o Fichte (la conciencia desdichada de Hegel).
+
+Plessner nos dice que este aquí-ahora es un punto espacializante, un punto que articula al espacio (no un punto espacial).
+
+> No hay duplicación. Es el centro posicional mismo el que le está dado al centro posicional. Tal centro debe estar dado a algo.
+
+> La excentricidad no es que haya dos puntos, es que el punto mismo está fuera de sí.
+
+Tal punto espacializante sólo existe como ejecución, en el acto, no como materialidad: no se encuentra en el mundo, en la experiencia empírica.
+
+(Página 313) "Tal punto es aquello a través de lo cual una cosa se media en la unidad de una forma gestáltica: es el a-través de la nediación".
+
+Es la totalidad la que da sentido y forma a las cosas.
+
+La totalidad se mantiene y se conserva a través de ella misma, a pesar de ir cambiando esa totalidad que es. Este punto que permite ir conservando la unidad del cuerpo a través del cambio que el propio cuerpo hace debe ser aquello que articula dicha unidad.
+
+"La cosa se pone en su propio centro". ¿Qué es ponerse? No es el ponerse de Fichte. Lo veremos más adelante.
+
+El animal se pone como centro mediándose a si mismo. Aún no estamos hablando del ser humano.
+
+En cambio, lo que no sería animal, es que el carácter reflexivo de su cuerpo se le de a él mismo.
+
+El ser humano sigue absorto en el aquí-ahora, no ha perdido su centro, vive desde su propio centro, pero se hace consciente de la centralidad de su existencia. Se tiene a sí mismo y sabe de sí mismo. Se percibe a sí mismo, y esto lo convierte en un yo.
+
+La vida está ejecutando acciones, la vida sigue en su ejecutividad. Sigue percibiendo, desplazándose, sintiendo... Sin embargo, el yo no sólo sigue en su ejecutividad, sino que es consciente de que realiza tales actos, y además es capaz de distanciarse respecto de tales actos, no sólo fenomenológicamente, para describirlos (que también) sino también en un sentido más simple, sabiéndose como actor.
+
+A pesar de tal distanciamiento, el yo sigue cautivo en el aquí-ahora. Puede actuar, pero no puede dejar de actuar. Es un distanciamiento sin desdoblamiento.
+
+> Aparece un polo subjetivo, el cual no debe confundirse con la interioridad. El animal también tiene interioridad, tiene deseos. Hay tres cosas: un campo externo, un campo interno, y conciencia.
+
+Lo subjetivo no es un contenido, una vivencia, sino el acto de tal vivencia. No es que algo sea aburrido, sino que **a mi me** es aburrido. Es el "a mi me".
+
+Describiendo la percepción llegamos a la conciencia de la pluralidad de puntos de vista, luego pluralidad de espacios, luego infinitud de espacios, luego pensar fuera de cualquier espacialidad concreta, luego hablar de, por ejemplo, áreas de cuadrados. Siempre partiendo de la experiencia y escalando.
+
+> Así se articula el nosotros como condición de posibilidad de la excentricidad y la excentricidad como condición de posibilidad del nosotros (lo veremos más adelante).
+
+¿En qué consiste el estar puesto en su posicionalidad?
+
+Plessner nos habla de dos formas de límite (en otros textos):
+- Como un límite, como el fin de una forma y el comienzo de otra, de manera que el límite no es ni una cosa ni la otra. El límite no pertenece a una u otra cosa. Eso es lo que pasaría en el límite de los cuerpos inorgánicos, están ahí, acabándose donde empieza el otro.
+- Otra forma de límite: el límite pertenece él mismo al cuerpo. Ya no es simplemente el fin de algo y el comienzo de otra cosa, sino que el cuerpo trae consigo su límite. Tal interioridad del límite permite tocar las cosas, tocar la exterioridad, sin salir del cuerpo. La piel es ese límite. La exterioridad que tenemos es el límite tocando con. Tenemos una diferencia ahora entre interior del cuerpo y exterior del cuerpo, y el cuerpo siente dicho exterior, puede dar cuenta de él. Reacciona no sólo mecánicamente, sino de un modo interno, tiene su propio desplazamiento interno de sus propios límites (como una planta que se repliega ante un toque). La cosa orgánica media sus propios límites. La cosa orgánica no necesita dejar de ser para que la otra cosa sea, al modo del primer tipo de límite.
+
+Lo que hace Plessner es extraer de manera material el dualismo cartesiano. No es una postulación de una res cogitans y una res extensa: en la propia forma del cuerpo está implicada necesariamente una diferenciación entre interior y exterior, y el exterior se está dando como interior.
+
+Esto, en el caso de la planta, lo que tenemos es que, efectivamente, la planta siente el medio, pero no diferencia, a pesar de estar sintiéndolo internamente, un exterior de un interior. La planta simplemente se expande hacia el exterior y, expandiéndose, va ampliando su límite. En cambio, el animal desplaza su centro (la planta no puede desplazar su centro porque, aún teniendo una interioridad, no la siente). El animal, en cambio, puede tener tendencias y cosas del medio. Tiene un querer exceder el límite y a la vez notar aquello que está fuera del límite. El organismo, precisamente por esto, está a la vez vuelto hacia el exterior y vuelto hacia sí. Es más, es precisamente porque está vuelto hacia sí que puede estar vuelto hacia el exterior.
+
+Dicho de otro modo: el organismo tiene que mantener él mismo su límite para conservarse como organismo. Su límite es inestable porque, por esencia, se puede morir, perder esa estabilidad que mantiene el límite con el exterior. El ser vivo lleva consigo su límite, tiene que mantenerlo ante cambios del entorno. Eso es lo que hace que pueda tener movimientos que no coincidan directamente con el impulso del entorno (entendiendo físicamente impulso). Aunque también lo tienen las plantas, no sienten su interior. El animal sí siente su tendencia. Está **puesto en su posición**. **La posicionalidad es todo este manter un límite, traer el límite consigo. La posicionalidad animal es no estar un lugar, sino ser el lugar. El animal está en si mismo. No solo tiene que mantener su límite, sino mantenerse como unidad en su límite. Cuando el exterior amenaza este límite, se desplaza en el exterior para reaccionar a esto, llevando, reformulando y rearticulando su límite en el proceso**. Lo hace a través de un centro de posición, de una articulación del espacio, el tiempo y la posición de las cosas. También hay movimientos y sensaciones internas.
+
+El ser humano, este que tiene un centro y al cual el centro se le da, no sólo está puesto en su centralidad y tiene que mantenerse en su articulación de unidad, **está puesto en su centro**, es decir, **tiene que mantener su centro**. Fundamental: estamos entendiendo "ponerse en" con "mantener". Oposición con el ponerse de Fichte en la página 164.
+
