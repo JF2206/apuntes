@@ -261,3 +261,49 @@ Dicho de otro modo: el organismo tiene que mantener él mismo su límite para co
 
 El ser humano, este que tiene un centro y al cual el centro se le da, no sólo está puesto en su centralidad y tiene que mantenerse en su articulación de unidad, **está puesto en su centro**, es decir, **tiene que mantener su centro**. Fundamental: estamos entendiendo "ponerse en" con "mantener". Oposición con el ponerse de Fichte en la página 164.
 
+20/10/26:
+
+El animal no solo se tiene como posicionalidad, como la planta, sino que se tiene **en** su posicionalidad.
+
+Una cosa es ser centro, y otra es estar en el centro posicional (en relación con el animal y el ser humano).
+
+El animal no es simplemente cuerpo, sino que tiene cuerpo. Se le da su cuerpo, como una vivencia. Domina su cuerpo, y dominando su cuerpo influye sobre su centro, aunque este no se le de directamente.
+
+Esta otra cosa que comienza elucubrando, y que finalmente será el ser humano, consiste en que, asi como el animal está puesto en el cuerpo, esta otra cosa está puesta en el centro. Eso hace que pueda tener el centro, que se le de el centro.
+
+Se le da el centro, pero, ¿a quién? Si se le da a otra cosa, ya no se está dando al centro mismo. Tiene que darse al centro mismo. De ahí que no hay una duplicidad de centros como tal, hay una excentricidad del centro. Es un desdoble sin generar un nuevo centro, como si se saliera de si. Esto es lo que generará el polo subjetivo, que ya no puede ser objeto.
+
+Este tener este polo subjetivo permite, a esta cosa (ser humano), no sólo tener interioridad, sentir su cuerpo, y exterioridad, relacionarse con un medio, sino que también tiene un tercer elemento que no es ni una cosa ni la otra: la conciencia.
+
+Página 314:
+
+Lo que está implicado en el aquí-ahora es el punto a partir del cual se ordena todo. El punto absoluto a partir del cual se distribuye todo.
+
+A esta cosa que se puede desdoblar, "excentrificar", precisamente por poder se excéntrica, se distancia de esta posición, de este posicionarse a partir del cual distiribuye el entorno.
+
+Tenemos campo externo, campo interno (objetivables, el interno con matices) y conciencia (no objetivable). Posteriormente veremos cómo ambos campos objetivables se desdoblarán.
+
+"La unidad no constituye una esfera independiente", no hay un desarrollo sistemático que permita ir resolviendo los conflictos entre ambos campos. No es un término medio que reconcilie ambos campos.
+
+La conciencia es el hiato, algo así como lo que está escindiendo o separando la división. El centro permite que el cuerpo se medie a si mismo, desplazando sus límites y manteniendo la unidad. La conciencia hará lo mismo, haciendo que el centro se ponga y se mantenga puesto donde está en ese desplazamiento. Habrá que ver que la conciencia es, en última instancia, un yo general, un nosotros (necesariamente intersubjetiva, final del texto).
+
+El ser humano no está ligado a ninguna forma gestáltica definida: no tiene por qué darse como se da, en tanto que la excentricidad no constituye ninguna forma nueva de organización centralizada, más allá de la animal.
+
+"Distanciado doblemente de su propio cuerpo físico", es decir, como centro y como desdoble de su centro, se da una triple estructura: munto exterior, mundo interior y mundo en común.
+
+Precisamente porque tiene este desdoblarse, por dársele un mundo común, un mundo interior y un mundo exterior, **en los que las cosas se le dan como reales**, todo se le da fragmentariamente, es decir, no se le da completo. Con un trasfondo, con un algo más. En el caso de lo físico, parece que Plessner habla de los escorzos fenomenológicos. Nos damos cuenta de que los objetos se nos dan parcialmente, nunca completos. Con los objetos del mundo interno, nos ocurre igual. Así como hay posibilidad de error en la percepción exterior, tenemos posibilidad de error en la percepción interior. Por ejemplo, cuando experimento tristeza, puede darse el caso que lo que reamente se me da una emoción más compleja (tristeza acompañada de placer por la búsqueda de cuidados), aunque a priori sólo perciba el escorzo de la tristeza en la percepción del objeto emocional complejo.
+
+En el campo externo, tendremos el desdoble entre el cuerpo físico y el cuerpo vivido. El absoluto aquí-ahora, que radica en el cuerpo vivido, se relaciona con el entorno. Cuando pensamos en el absoluto aquí-ahora como un objeto físico, cuando objetivamos y posicionamos en el espacio nuestro cuerpo.
+
+Esa formalidad del espacio absoluto se deduce de la experiencia, de la vivencia concreta, no es un a priori al estilo kantiano.
+
+El cuerpo físico, entonces, se encuentra en el mundo físico, de las cosas.
+
+El campo circundante se da desde el cuerpo vivido. Puede registrarse, punto por punto, mediante las leyes de la perspectiva, en el mundo externo, pero perdiendo su carácter de campo circundante.
+
+El mundo en común es la formalidad de la conciencia.
+
+Vivenciar el contenido anímico y el contenido anímico mismo: diferencia entre el alma y el vivenciar.
+
+Lo que permite que pueda distanciarme de este aquí-ahora y poder poner en duda una percepción es la formalidad de la conciencia que puede desdoblarse, es decir, la pluralidad de conciencias, el mundo común. El sujeto humano es un sujeto que, al ser excéntrico, necesariamente es intersubjetivo. No empieza como una conciencia que debe elucubrara si hay conceicnais o no, sino que al revés. Debe aprender a entender las cosas como muertas, como no conciencias.
+
